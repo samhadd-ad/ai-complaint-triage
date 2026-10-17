@@ -1,0 +1,1151 @@
+email_id,text,category,urgency,template_id
+E0001,"Hi, The driver was rude to me and refused to help with my luggage at the hotel. Regards. - Priya",Driver Behaviour,Normal,Driver Behaviour-0
+E0002,"This was for a trip with my family. Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. Thanks. - Rami",Driver Behaviour,Normal,Driver Behaviour-5
+E0003,"Hi, He kept texting while driving through Terminal 3, I was scared the whole time. It is urgent, please call me back as soon as possible. Thanks. - Fatima",Driver Behaviour,High,Driver Behaviour-6
+E0004,"Hi, The driver took a much longer route from my office and argued when I asked about it. Please get back to me. - Omar",Driver Behaviour,Normal,Driver Behaviour-4
+E0005,"Hi, Driver showed up so late that I had to rush through security. Not ok. I felt unsafe and I want someone to contact me right away. Please get back to me. - Olivia",Late Pickup,High,Late Pickup-7
+E0006,"Hi, My driver was on the phone the whole ride and was speeding on the highway. I felt unsafe and I want someone to contact me right away. Thank you for your help. - Maya",Driver Behaviour,High,Driver Behaviour-1
+E0007,"Hi, My credit card shows a charge of $72 for a ride I never took. - Omar",Billing Issue,Normal,Billing Issue-2
+E0008,"Hi, Is it possible to add a stop at my office on my booking? - Olivia",Booking Change,Normal,Booking Change-3
+E0009,"Hi, You promised the car at Friday evening, it came way after. I lost an important meeting. I will file a formal complaint if this is not fixed. - Fatima",Late Pickup,High,Late Pickup-6
+E0010,"My booking reference is in the confirmation email. Hi, I paid cash but you still billed my card $65. - Grace",Billing Issue,Normal,Billing Issue-6
+E0011,"Hi, I paid cash but you still billed my card $150. - Priya",Billing Issue,Normal,Billing Issue-6
+E0012,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Thanks. - Lina",Booking Change,Normal,Booking Change-2
+E0013,"Hi, Did any driver find a pair of glasses? I had them before the ride to North York. It is urgent, please call me back as soon as possible. Thanks. - Grace",Lost Item,High,Lost Item-7
+E0014,"Hi, I left my laptop bag in the car around 11 pm after a ride from downtown Toronto. Please help. Please get back to me. - Priya",Lost Item,Normal,Lost Item-0
+E0015,"Hi, I really appreciated how patient the driver was with my kids. Thanks. - Grace",Compliment,Normal,Compliment-6
+E0016,"Hi, Lost my wallet during my trip to Terminal 3, can you check with the driver? Please get back to me. - Noah",Lost Item,Normal,Lost Item-3
+E0017,"Hi, I need a corrected receipt for my business trip, the amount is wrong. - Ahmed",Billing Issue,Normal,Billing Issue-4
+E0018,"Hi, My driver was on the phone the whole ride and was speeding on the highway. Thank you for your help. - Maya",Driver Behaviour,High,Driver Behaviour-1
+E0019,"Hi, Our limo arrived 25 minutes after the scheduled time and we were late to the wedding. Regards. - Maya",Late Pickup,Normal,Late Pickup-4
+E0020,"Hi, The fare on my receipt is $89 but I was quoted $55. Why the difference? - Yusuf",Billing Issue,Normal,Billing Issue-1
+E0021,"Hi, I felt unsafe, the driver was driving aggressively last night. This is unacceptable and I want a refund immediately. Thank you for your help. - Grace",Driver Behaviour,High,Driver Behaviour-2
+E0022,"Hi, The fare on my receipt is $150 but I was quoted $75. Why the difference? Please get back to me. - Carlos",Billing Issue,Normal,Billing Issue-1
+E0023,"Hi, The driver smelled of smoke and was very unprofessional. I need this resolved today. Thank you for your help. - Lina",Driver Behaviour,High,Driver Behaviour-3
+E0024,"Hi, Can I switch my reservation to a bigger vehicle for Square One? Thank you for your help. - Fatima",Booking Change,Normal,Booking Change-7
+E0025,"Hi, I felt unsafe, the driver was driving aggressively last night. - Noah",Driver Behaviour,High,Driver Behaviour-2
+E0026,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. - Omar",Compliment,Normal,Compliment-5
+E0027,"I'm a regular customer and usually book through the app. Hi, Driver showed up so late that I had to rush through security. Not ok. Thanks. - Rami",Late Pickup,Normal,Late Pickup-7
+E0028,"Hi, My driver was 20 minutes late picking me up at Terminal 1. I almost missed my flight. Thanks. - Priya",Late Pickup,Normal,Late Pickup-0
+E0029,"Hi, The pickup at Union Station was late again. This is the second time this month. Please get back to me. - Grace",Late Pickup,Normal,Late Pickup-3
+E0030,"Hi, Can you explain the extra fee on my invoice? I paid $89 instead of $55. I need this resolved today. Regards. - Daniel",Billing Issue,High,Billing Issue-3
+E0031,"Hi, I was charged twice for my trip from North York this morning. Please refund the extra charge. It is urgent, please call me back as soon as possible. - Sarah",Billing Issue,High,Billing Issue-0
+E0032,"Hi, Thank you for getting me to Terminal 1 so quickly. Amazing driver. Thank you for your help. - Fatima",Compliment,Normal,Compliment-2
+E0033,"Hi, Very impolite driver, he did not even say hello and slammed the trunk. It is urgent, please call me back as soon as possible. - Priya",Driver Behaviour,High,Driver Behaviour-7
+E0034,"Hi, Very impolite driver, he did not even say hello and slammed the trunk. Please get back to me. - Mark",Driver Behaviour,Normal,Driver Behaviour-7
+E0035,"Hi, I would like to book a car for 6 people next Saturday from Pearson Airport. Please get back to me. - Hassan",Booking Change,Normal,Booking Change-4
+E0036,"Hi, I booked a car for Friday evening but nobody showed up until 45 minutes later. I felt unsafe and I want someone to contact me right away. Regards. - Yusuf",Late Pickup,High,Late Pickup-1
+E0037,"Hi, Can I switch my reservation to a bigger vehicle for the hotel? Thanks. - Liam",Booking Change,Normal,Booking Change-7
+E0038,"Hi, My daughter left her backpack in the limo Friday evening. How can we get it back? Please get back to me. - Julia",Lost Item,Normal,Lost Item-2
+E0039,"Hi, I need to cancel my booking for Friday to downtown Toronto. Thanks. - Omar",Booking Change,Normal,Booking Change-1
+E0040,"Hi, Driver showed up so late that I had to rush through security. Not ok. I need this resolved today. - Carlos",Late Pickup,High,Late Pickup-7
+E0041,"Hi, Waited at Mississauga for over 45 minutes, the driver never called. Very disappointing. I need this resolved today. - Rami",Late Pickup,High,Late Pickup-2
+E0042,"Hi, I think I forgot my phone in the back seat of the taxi from Union Station. It is urgent, please call me back as soon as possible. Regards. - Chen",Lost Item,High,Lost Item-1
+E0043,"Hi, Driver showed up so late that I had to rush through security. Not ok. I will file a formal complaint if this is not fixed. Thanks. - Liam",Late Pickup,High,Late Pickup-7
+E0044,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. It is urgent, please call me back as soon as possible. Thank you for your help. - Yusuf",Driver Behaviour,High,Driver Behaviour-5
+E0045,"I'm a regular customer and usually book through the app. Hi, Our limo arrived 30 minutes after the scheduled time and we were late to the wedding. Regards. - Emma",Late Pickup,Normal,Late Pickup-4
+E0046,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. Please get back to me. - Yusuf",Compliment,Normal,Compliment-5
+E0047,"Hi, I need to cancel my booking for Friday to Union Station. - Maya",Booking Change,Normal,Booking Change-1
+E0048,"Hi, Please move my airport ride one hour earlier. Thanks. - Mark",Booking Change,Normal,Booking Change-6
+E0049,"Hi, My driver was on the phone the whole ride and was speeding on the highway. - Noah",Driver Behaviour,High,Driver Behaviour-1
+E0050,"Hi, Just wanted to say Liam, my driver, was excellent and very friendly. Thank you! Thanks. - Noah",Compliment,Normal,Compliment-0
+E0051,"I'm a regular customer and usually book through the app. Hi, Can I change my pickup time tomorrow from last night to a later time? Regards. - Yusuf",Booking Change,Normal,Booking Change-0
+E0052,"Hi, I need a corrected receipt for my business trip, the amount is wrong. Regards. - Priya",Billing Issue,Normal,Billing Issue-4
+E0053,"Hi, Something is off with my statement, there are two payments for one ride. Thank you for your help. - Rami",Billing Issue,Normal,Billing Issue-5
+E0054,"I travel for work every week with your company. Hi, Nobody was there when I came out of arrivals at Union Station. I had to take another cab. It is urgent, please call me back as soon as possible. Thanks. - Carlos",Late Pickup,High,Late Pickup-5
+E0055,"Hi, My daughter left her backpack in the limo 5 am. How can we get it back? It is urgent, please call me back as soon as possible. Regards. - Omar",Lost Item,High,Lost Item-2
+E0056,"Hi, My driver was 40 minutes late picking me up at North York. I almost missed my flight. Thanks. - Julia",Late Pickup,Normal,Late Pickup-0
+E0057,"Hi, Just wanted to say Priya, my driver, was excellent and very friendly. Thank you! Thanks. - Daniel",Compliment,Normal,Compliment-0
+E0058,"Hi, The fare on my receipt is $48 but I was quoted $95. Why the difference? I felt unsafe and I want someone to contact me right away. Regards. - Chen",Billing Issue,High,Billing Issue-1
+E0059,"Hi, Nobody was there when I came out of arrivals at Square One. I had to take another cab. Thank you for your help. - Ahmed",Late Pickup,Normal,Late Pickup-5
+E0060,"This was for a trip with my family. Hi, I felt unsafe, the driver was driving aggressively last night. I felt unsafe and I want someone to contact me right away. Thank you for your help. - Olivia",Driver Behaviour,High,Driver Behaviour-2
+E0061,"Hi, I really appreciated how patient the driver was with my kids. Thanks. - Sarah",Compliment,Normal,Compliment-6
+E0062,"Hi, My daughter left her backpack in the limo 6:30 this morning. How can we get it back? Please get back to me. - Yusuf",Lost Item,Normal,Lost Item-2
+E0063,"I travel for work every week with your company. Hi, I was charged twice for my trip from Terminal 3 last night. Please refund the extra charge. Thank you for your help. - Daniel",Billing Issue,Normal,Billing Issue-0
+E0064,"Hi, I was charged twice for my trip from my office yesterday afternoon. Please refund the extra charge. Please get back to me. - Maya",Billing Issue,Normal,Billing Issue-0
+E0065,"Hi, Something is off with my statement, there are two payments for one ride. Please get back to me. - Yusuf",Billing Issue,Normal,Billing Issue-5
+E0066,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. Please get back to me. - Sarah",Compliment,Normal,Compliment-5
+E0067,"Hi, My keys must have fallen out in the car, I can't find them anywhere since 6:30 this morning. Please get back to me. - Rami",Lost Item,Normal,Lost Item-5
+E0068,"Hi, Waited at my office for over 30 minutes, the driver never called. Very disappointing. I need this resolved today. Thank you for your help. - Maya",Late Pickup,High,Late Pickup-2
+E0069,"I'm a regular customer and usually book through the app. Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. Please get back to me. - Omar",Lost Item,Normal,Lost Item-6
+E0070,"Hi, Our limo arrived 30 minutes after the scheduled time and we were late to the wedding. Regards. - Noah",Late Pickup,Normal,Late Pickup-4
+E0071,"Hi, The driver was rude to me and refused to help with my luggage at Square One. Thanks. - Hassan",Driver Behaviour,Normal,Driver Behaviour-0
+E0072,"Hi, The pickup at Mississauga was late again. This is the second time this month. Regards. - Sarah",Late Pickup,Normal,Late Pickup-3
+E0073,"Hi, The fare on my receipt is $89 but I was quoted $95. Why the difference? - Mark",Billing Issue,Normal,Billing Issue-1
+E0074,"Hi, Waited at Mississauga for over 60 minutes, the driver never called. Very disappointing. I will file a formal complaint if this is not fixed. Thank you for your help. - Julia",Late Pickup,High,Late Pickup-2
+E0075,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. - Grace",Booking Change,Normal,Booking Change-5
+E0076,"Hi, Waited at Union Station for over 30 minutes, the driver never called. Very disappointing. - Yusuf",Late Pickup,Normal,Late Pickup-2
+E0077,"I'm a regular customer and usually book through the app. Hi, Driver showed up so late that I had to rush through security. Not ok. Thanks. - Rami",Late Pickup,Normal,Late Pickup-7
+E0078,"Hi, My keys must have fallen out in the car, I can't find them anywhere since this morning. Please get back to me. - Maya",Lost Item,Normal,Lost Item-5
+E0079,"I travel for work every week with your company. Hi, I felt unsafe, the driver was driving aggressively 6:30 this morning. - Priya",Driver Behaviour,High,Driver Behaviour-2
+E0080,"Hi, The limo for our event was perfect. Everyone loved it. - Maya",Compliment,Normal,Compliment-4
+E0081,"Hi, I need to cancel my booking for Friday to Terminal 1. Please get back to me. - Emma",Booking Change,Normal,Booking Change-1
+E0082,"Hi, I left my laptop bag in the car Sunday after a ride from Square One. Please help. Please get back to me. - Hassan",Lost Item,Normal,Lost Item-0
+E0083,"Hi, He kept texting while driving through the hotel, I was scared the whole time. Regards. - Carlos",Driver Behaviour,Normal,Driver Behaviour-6
+E0084,"Hi, Driver showed up so late that I had to rush through security. Not ok. I need this resolved today. - Daniel",Late Pickup,High,Late Pickup-7
+E0085,"Hi, The pickup at Terminal 1 was late again. This is the second time this month. It is urgent, please call me back as soon as possible. Please get back to me. - Sarah",Late Pickup,High,Late Pickup-3
+E0086,"I travel for work every week with your company. Hi, You promised the car at 6:30 this morning, it came way after. I lost an important meeting. Regards. - Emma",Late Pickup,Normal,Late Pickup-6
+E0087,"Hi, Waited at North York for over 40 minutes, the driver never called. Very disappointing. Please get back to me. - Hassan",Late Pickup,Normal,Late Pickup-2
+E0088,"Hi, My credit card shows a charge of $48 for a ride I never took. - Carlos",Billing Issue,Normal,Billing Issue-2
+E0089,"Hi, Can I switch my reservation to a bigger vehicle for the hotel? Regards. - Chen",Booking Change,Normal,Booking Change-7
+E0090,"I travel for work every week with your company. Hi, My driver was 40 minutes late picking me up at Union Station. I almost missed my flight. - Julia",Late Pickup,Normal,Late Pickup-0
+E0091,"I'm a regular customer and usually book through the app. Hi, Please move my airport ride one hour earlier. Thanks. - Lina",Booking Change,Normal,Booking Change-6
+E0092,"Hi, Your team was very helpful when I changed my booking. Much appreciated. Regards. - Chen",Compliment,Normal,Compliment-3
+E0093,"Hi, Our limo arrived 60 minutes after the scheduled time and we were late to the wedding. I need this resolved today. Thanks. - Lina",Late Pickup,High,Late Pickup-4
+E0094,"I travel for work every week with your company. Hi, I left my laptop bag in the car this morning after a ride from Mississauga. Please help. Thanks. - Julia",Lost Item,Normal,Lost Item-0
+E0095,"Hi, Something is off with my statement, there are two payments for one ride. I felt unsafe and I want someone to contact me right away. Regards. - Liam",Billing Issue,High,Billing Issue-5
+E0096,"Hi, My daughter left her backpack in the limo this morning. How can we get it back? It is urgent, please call me back as soon as possible. Thanks. - Fatima",Lost Item,High,Lost Item-2
+E0097,"Hi, The driver smelled of smoke and was very unprofessional. I will file a formal complaint if this is not fixed. Please get back to me. - Lina",Driver Behaviour,High,Driver Behaviour-3
+E0098,"Hi, I left a black suitcase in the trunk Sunday. It has important documents. I will file a formal complaint if this is not fixed. Thanks. - Grace",Lost Item,High,Lost Item-4
+E0099,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. Thank you for your help. - Omar",Driver Behaviour,Normal,Driver Behaviour-5
+E0100,"Hi, The fare on my receipt is $48 but I was quoted $60. Why the difference? I will file a formal complaint if this is not fixed. Thanks. - Liam",Billing Issue,High,Billing Issue-1
+E0101,"Hi, I booked a car for last night but nobody showed up until 30 minutes later. Thank you for your help. - Rami",Late Pickup,Normal,Late Pickup-1
+E0102,"Hi, I think I forgot my phone in the back seat of the taxi from Mississauga. I need this resolved today. - Fatima",Lost Item,High,Lost Item-1
+E0103,"Hi, My driver was 15 minutes late picking me up at the hotel. I almost missed my flight. - Daniel",Late Pickup,Normal,Late Pickup-0
+E0104,"Hi, Nobody was there when I came out of arrivals at Terminal 3. I had to take another cab. - Sarah",Late Pickup,Normal,Late Pickup-5
+E0105,"Hi, Something is off with my statement, there are two payments for one ride. Please get back to me. - Maya",Billing Issue,Normal,Billing Issue-5
+E0106,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. This is unacceptable and I want a refund immediately. Thanks. - Ahmed",Driver Behaviour,High,Driver Behaviour-5
+E0107,"Hi, I was charged twice for my trip from Union Station 6:30 this morning. Please refund the extra charge. I felt unsafe and I want someone to contact me right away. Regards. - Mark",Billing Issue,High,Billing Issue-0
+E0108,"Hi, Waited at Terminal 1 for over 15 minutes, the driver never called. Very disappointing. Please get back to me. - Fatima",Late Pickup,Normal,Late Pickup-2
+E0109,"This was for a trip with my family. Hi, I felt unsafe, the driver was driving aggressively Sunday. I felt unsafe and I want someone to contact me right away. Regards. - Chen",Driver Behaviour,High,Driver Behaviour-2
+E0110,"This was for a trip with my family. Hi, Nobody was there when I came out of arrivals at Union Station. I had to take another cab. It is urgent, please call me back as soon as possible. Please get back to me. - Fatima",Late Pickup,High,Late Pickup-5
+E0111,"I travel for work every week with your company. Hi, The driver smelled of smoke and was very unprofessional. I will file a formal complaint if this is not fixed. Thank you for your help. - Mark",Driver Behaviour,High,Driver Behaviour-3
+E0112,"I travel for work every week with your company. Hi, I would like to book a car for 6 people next Saturday from Square One. Regards. - Fatima",Booking Change,Normal,Booking Change-4
+E0113,"Hi, Please move my airport ride one hour earlier. Regards. - Mark",Booking Change,Normal,Booking Change-6
+E0114,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Thanks. - Liam",Booking Change,Normal,Booking Change-5
+E0115,"Hi, The limo for our event was perfect. Everyone loved it. Please get back to me. - Noah",Compliment,Normal,Compliment-4
+E0116,"Hi, Waited at Union Station for over 40 minutes, the driver never called. Very disappointing. Please get back to me. - Emma",Late Pickup,Normal,Late Pickup-2
+E0117,"I travel for work every week with your company. Hi, He kept texting while driving through North York, I was scared the whole time. Please get back to me. - Lina",Driver Behaviour,Normal,Driver Behaviour-6
+E0118,"Hi, Is it possible to add a stop at downtown Toronto on my booking? - Noah",Booking Change,Normal,Booking Change-3
+E0119,"Hi, Did any driver find a pair of glasses? I had them before the ride to my office. I will file a formal complaint if this is not fixed. - Carlos",Lost Item,High,Lost Item-7
+E0120,"My booking reference is in the confirmation email. Hi, I left my laptop bag in the car around 11 pm after a ride from Union Station. Please help. Thank you for your help. - Mark",Lost Item,Normal,Lost Item-0
+E0121,"Hi, The driver took a much longer route from North York and argued when I asked about it. Regards. - Hassan",Driver Behaviour,Normal,Driver Behaviour-4
+E0122,"Hi, Did any driver find a pair of glasses? I had them before the ride to Mississauga. Thanks. - Hassan",Lost Item,Normal,Lost Item-7
+E0123,"I'm a regular customer and usually book through the app. Hi, My driver was 25 minutes late picking me up at Union Station. I almost missed my flight. Thank you for your help. - Priya",Late Pickup,Normal,Late Pickup-0
+E0124,"Hi, Can I change my pickup time tomorrow from 5 am to a later time? Regards. - Priya",Booking Change,Normal,Booking Change-0
+E0125,"Hi, My driver was on the phone the whole ride and was speeding on the highway. Regards. - Lina",Driver Behaviour,High,Driver Behaviour-1
+E0126,"Hi, Is it possible to add a stop at my office on my booking? - Ahmed",Booking Change,Normal,Booking Change-3
+E0127,"Hi, I think I forgot my phone in the back seat of the taxi from Square One. I felt unsafe and I want someone to contact me right away. - Julia",Lost Item,High,Lost Item-1
+E0128,"Hi, Nobody was there when I came out of arrivals at the hotel. I had to take another cab. Thank you for your help. - Omar",Late Pickup,Normal,Late Pickup-5
+E0129,"Hi, Best airport transfer I've had in years, thank you Sarah. - Liam",Compliment,Normal,Compliment-7
+E0130,"Hi, Nobody was there when I came out of arrivals at Mississauga. I had to take another cab. Please get back to me. - Daniel",Late Pickup,Normal,Late Pickup-5
+E0131,"Hi, He kept texting while driving through North York, I was scared the whole time. Please get back to me. - Priya",Driver Behaviour,Normal,Driver Behaviour-6
+E0132,"Hi, Waited at Pearson Airport for over 30 minutes, the driver never called. Very disappointing. Regards. - Mark",Late Pickup,Normal,Late Pickup-2
+E0133,"Hi, Driver showed up so late that I had to rush through security. Not ok. I felt unsafe and I want someone to contact me right away. - Daniel",Late Pickup,High,Late Pickup-7
+E0134,"My booking reference is in the confirmation email. Hi, I booked a car for yesterday afternoon but nobody showed up until 15 minutes later. Thanks. - Mark",Late Pickup,Normal,Late Pickup-1
+E0135,"Hi, Can you explain the extra fee on my invoice? I paid $150 instead of $60. Regards. - Ahmed",Billing Issue,Normal,Billing Issue-3
+E0136,"Hi, You promised the car at yesterday afternoon, it came way after. I lost an important meeting. It is urgent, please call me back as soon as possible. Please get back to me. - Carlos",Late Pickup,High,Late Pickup-6
+E0137,"Hi, My credit card shows a charge of $65 for a ride I never took. Please get back to me. - Emma",Billing Issue,Normal,Billing Issue-2
+E0138,"My booking reference is in the confirmation email. Hi, Great service yesterday afternoon, the car was clean and on time. I will book again. Thank you for your help. - Ahmed",Compliment,Normal,Compliment-1
+E0139,"Hi, Did any driver find a pair of glasses? I had them before the ride to Terminal 3. This is unacceptable and I want a refund immediately. Thank you for your help. - Priya",Lost Item,High,Lost Item-7
+E0140,"Hi, My credit card shows a charge of $72 for a ride I never took. Thank you for your help. - Emma",Billing Issue,Normal,Billing Issue-2
+E0141,"Hi, The price on the app and the final price do not match at all. Thank you for your help. - Daniel",Billing Issue,Normal,Billing Issue-7
+E0142,"Hi, My credit card shows a charge of $120 for a ride I never took. Thanks. - Rami",Billing Issue,Normal,Billing Issue-2
+E0143,"Hi, He kept texting while driving through North York, I was scared the whole time. Thanks. - Mark",Driver Behaviour,Normal,Driver Behaviour-6
+E0144,"I travel for work every week with your company. Hi, Lost my wallet during my trip to the hotel, can you check with the driver? Thank you for your help. - Maya",Lost Item,Normal,Lost Item-3
+E0145,"My booking reference is in the confirmation email. Hi, Something is off with my statement, there are two payments for one ride. I felt unsafe and I want someone to contact me right away. Regards. - Carlos",Billing Issue,High,Billing Issue-5
+E0146,"Hi, Please move my airport ride one hour earlier. Regards. - Priya",Booking Change,Normal,Booking Change-6
+E0147,"Hi, I paid cash but you still billed my card $89. Regards. - Carlos",Billing Issue,Normal,Billing Issue-6
+E0148,"Hi, My credit card shows a charge of $65 for a ride I never took. I will file a formal complaint if this is not fixed. Regards. - Rami",Billing Issue,High,Billing Issue-2
+E0149,"Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. I need this resolved today. Thanks. - Mark",Lost Item,High,Lost Item-6
+E0150,"Hi, The pickup at Union Station was late again. This is the second time this month. - Fatima",Late Pickup,Normal,Late Pickup-3
+E0151,"Hi, Something is off with my statement, there are two payments for one ride. I felt unsafe and I want someone to contact me right away. Thanks. - Grace",Billing Issue,High,Billing Issue-5
+E0152,"Hi, Can you explain the extra fee on my invoice? I paid $150 instead of $75. - Carlos",Billing Issue,Normal,Billing Issue-3
+E0153,"Hi, My daughter left her backpack in the limo this morning. How can we get it back? Thank you for your help. - Mark",Lost Item,Normal,Lost Item-2
+E0154,"Hi, Can you explain the extra fee on my invoice? I paid $150 instead of $110. I need this resolved today. - Ahmed",Billing Issue,High,Billing Issue-3
+E0155,"Hi, Is it possible to add a stop at North York on my booking? Please get back to me. - Omar",Booking Change,Normal,Booking Change-3
+E0156,"My booking reference is in the confirmation email. Hi, Please move my airport ride one hour earlier. Thank you for your help. - Priya",Booking Change,Normal,Booking Change-6
+E0157,"Hi, I think I forgot my phone in the back seat of the taxi from Pearson Airport. Regards. - Fatima",Lost Item,Normal,Lost Item-1
+E0158,"Hi, He kept texting while driving through my office, I was scared the whole time. This is unacceptable and I want a refund immediately. Regards. - Chen",Driver Behaviour,High,Driver Behaviour-6
+E0159,"Hi, Just wanted to say Yusuf, my driver, was excellent and very friendly. Thank you! Please get back to me. - Noah",Compliment,Normal,Compliment-0
+E0160,"Hi, I left my laptop bag in the car yesterday afternoon after a ride from Pearson Airport. Please help. Thanks. - Rami",Lost Item,Normal,Lost Item-0
+E0161,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. - Daniel",Driver Behaviour,Normal,Driver Behaviour-5
+E0162,"Hi, He kept texting while driving through Square One, I was scared the whole time. Regards. - Ahmed",Driver Behaviour,Normal,Driver Behaviour-6
+E0163,"Hi, The driver smelled of smoke and was very unprofessional. I will file a formal complaint if this is not fixed. - Carlos",Driver Behaviour,High,Driver Behaviour-3
+E0164,"Hi, Please move my airport ride one hour earlier. Regards. - Emma",Booking Change,Normal,Booking Change-6
+E0165,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Thank you for your help. - Chen",Booking Change,Normal,Booking Change-2
+E0166,"Hi, My daughter left her backpack in the limo yesterday afternoon. How can we get it back? Thanks. - Julia",Lost Item,Normal,Lost Item-2
+E0167,"Hi, I would like to book a car for 6 people next Saturday from Terminal 3. Regards. - Hassan",Booking Change,Normal,Booking Change-4
+E0168,"Hi, Nobody was there when I came out of arrivals at Union Station. I had to take another cab. Thanks. - Noah",Late Pickup,Normal,Late Pickup-5
+E0169,"Hi, My credit card shows a charge of $65 for a ride I never took. Thanks. - Olivia",Billing Issue,Normal,Billing Issue-2
+E0170,"Hi, Driver showed up so late that I had to rush through security. Not ok. It is urgent, please call me back as soon as possible. Thanks. - Chen",Late Pickup,High,Late Pickup-7
+E0171,"Hi, I would like to book a car for 6 people next Saturday from the hotel. Please get back to me. - Lina",Booking Change,Normal,Booking Change-4
+E0172,"Hi, Our limo arrived 60 minutes after the scheduled time and we were late to the wedding. This is unacceptable and I want a refund immediately. - Hassan",Late Pickup,High,Late Pickup-4
+E0173,"Hi, The driver took a much longer route from Terminal 3 and argued when I asked about it. Please get back to me. - Rami",Driver Behaviour,Normal,Driver Behaviour-4
+E0174,"Hi, Did any driver find a pair of glasses? I had them before the ride to Square One. Thank you for your help. - Chen",Lost Item,Normal,Lost Item-7
+E0175,"I'm a regular customer and usually book through the app. Hi, Can I change my pickup time tomorrow from yesterday afternoon to a later time? Please get back to me. - Liam",Booking Change,Normal,Booking Change-0
+E0176,"Hi, My daughter left her backpack in the limo Friday evening. How can we get it back? Please get back to me. - Priya",Lost Item,Normal,Lost Item-2
+E0177,"Hi, Great service Friday evening, the car was clean and on time. I will book again. Please get back to me. - Carlos",Compliment,Normal,Compliment-1
+E0178,"Hi, My driver was on the phone the whole ride and was speeding on the highway. Regards. - Sarah",Driver Behaviour,High,Driver Behaviour-1
+E0179,"Hi, Is it possible to add a stop at North York on my booking? Thanks. - Liam",Booking Change,Normal,Booking Change-3
+E0180,"Hi, I need to cancel my booking for Friday to Union Station. Regards. - Liam",Booking Change,Normal,Booking Change-1
+E0181,"Hi, The price on the app and the final price do not match at all. Please get back to me. - Priya",Billing Issue,Normal,Billing Issue-7
+E0182,"I'm a regular customer and usually book through the app. Hi, He kept texting while driving through Terminal 3, I was scared the whole time. Thank you for your help. - Fatima",Driver Behaviour,Normal,Driver Behaviour-6
+E0183,"Hi, You promised the car at last night, it came way after. I lost an important meeting. Please get back to me. - Hassan",Late Pickup,Normal,Late Pickup-6
+E0184,"Hi, Did any driver find a pair of glasses? I had them before the ride to Pearson Airport. I need this resolved today. Regards. - Daniel",Lost Item,High,Lost Item-7
+E0185,"Hi, Something is off with my statement, there are two payments for one ride. Regards. - Liam",Billing Issue,Normal,Billing Issue-5
+E0186,"I'm a regular customer and usually book through the app. Hi, You promised the car at 5 am, it came way after. I lost an important meeting. Please get back to me. - Chen",Late Pickup,Normal,Late Pickup-6
+E0187,"Hi, I need to cancel my booking for Friday to Union Station. Thanks. - Fatima",Booking Change,Normal,Booking Change-1
+E0188,"Hi, The driver smelled of smoke and was very unprofessional. I felt unsafe and I want someone to contact me right away. - Hassan",Driver Behaviour,High,Driver Behaviour-3
+E0189,"I travel for work every week with your company. Hi, Great service Sunday, the car was clean and on time. I will book again. Thank you for your help. - Rami",Compliment,Normal,Compliment-1
+E0190,"Hi, Can I switch my reservation to a bigger vehicle for North York? Thanks. - Yusuf",Booking Change,Normal,Booking Change-7
+E0191,"I travel for work every week with your company. Hi, I need to cancel my booking for Friday to Union Station. Please get back to me. - Sarah",Booking Change,Normal,Booking Change-1
+E0192,"Hi, Can you explain the extra fee on my invoice? I paid $89 instead of $110. Thanks. - Yusuf",Billing Issue,Normal,Billing Issue-3
+E0193,"Hi, Can I switch my reservation to a bigger vehicle for Pearson Airport? Please get back to me. - Olivia",Booking Change,Normal,Booking Change-7
+E0194,"Hi, You promised the car at last night, it came way after. I lost an important meeting. Please get back to me. - Olivia",Late Pickup,Normal,Late Pickup-6
+E0195,"Hi, I paid cash but you still billed my card $120. Regards. - Ahmed",Billing Issue,Normal,Billing Issue-6
+E0196,"Hi, Just wanted to say Hassan, my driver, was excellent and very friendly. Thank you! Regards. - Carlos",Compliment,Normal,Compliment-0
+E0197,"Hi, My driver was on the phone the whole ride and was speeding on the highway. This is unacceptable and I want a refund immediately. Regards. - Sarah",Driver Behaviour,High,Driver Behaviour-1
+E0198,"Hi, My credit card shows a charge of $120 for a ride I never took. Please get back to me. - Maya",Billing Issue,Normal,Billing Issue-2
+E0199,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Thank you for your help. - Daniel",Booking Change,Normal,Booking Change-2
+E0200,"My booking reference is in the confirmation email. Hi, Can you explain the extra fee on my invoice? I paid $150 instead of $75. This is unacceptable and I want a refund immediately. - Julia",Billing Issue,High,Billing Issue-3
+E0201,"Hi, My credit card shows a charge of $120 for a ride I never took. Regards. - Daniel",Billing Issue,Normal,Billing Issue-2
+E0202,"Hi, Waited at Terminal 3 for over 25 minutes, the driver never called. Very disappointing. Please get back to me. - Emma",Late Pickup,Normal,Late Pickup-2
+E0203,"Hi, I really appreciated how patient the driver was with my kids. Thanks. - Carlos",Compliment,Normal,Compliment-6
+E0204,"Hi, I booked a car for Sunday but nobody showed up until 25 minutes later. Thank you for your help. - Carlos",Late Pickup,Normal,Late Pickup-1
+E0205,"Hi, I need to cancel my booking for Friday to Square One. - Priya",Booking Change,Normal,Booking Change-1
+E0206,"Hi, The limo for our event was perfect. Everyone loved it. Thank you for your help. - Liam",Compliment,Normal,Compliment-4
+E0207,"Hi, The driver smelled of smoke and was very unprofessional. Thanks. - Liam",Driver Behaviour,Normal,Driver Behaviour-3
+E0208,"Hi, Can I switch my reservation to a bigger vehicle for Mississauga? Regards. - Olivia",Booking Change,Normal,Booking Change-7
+E0209,"Hi, I booked a car for 5 am but nobody showed up until 25 minutes later. - Olivia",Late Pickup,Normal,Late Pickup-1
+E0210,"Hi, Thank you for getting me to Square One so quickly. Amazing driver. Regards. - Fatima",Compliment,Normal,Compliment-2
+E0211,"Hi, I booked a car for this morning but nobody showed up until 20 minutes later. Regards. - Rami",Late Pickup,Normal,Late Pickup-1
+E0212,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. I will file a formal complaint if this is not fixed. Thanks. - Lina",Booking Change,High,Booking Change-5
+E0213,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. Regards. - Carlos",Compliment,Normal,Compliment-5
+E0214,"Hi, The fare on my receipt is $72 but I was quoted $40. Why the difference? It is urgent, please call me back as soon as possible. Thanks. - Grace",Billing Issue,High,Billing Issue-1
+E0215,"Hi, Waited at Terminal 1 for over 20 minutes, the driver never called. Very disappointing. - Rami",Late Pickup,Normal,Late Pickup-2
+E0216,"Hi, I paid cash but you still billed my card $120. I need this resolved today. Regards. - Julia",Billing Issue,High,Billing Issue-6
+E0217,"Hi, You promised the car at last night, it came way after. I lost an important meeting. It is urgent, please call me back as soon as possible. Thank you for your help. - Grace",Late Pickup,High,Late Pickup-6
+E0218,"Hi, The pickup at North York was late again. This is the second time this month. Thanks. - Sarah",Late Pickup,Normal,Late Pickup-3
+E0219,"Hi, Something is off with my statement, there are two payments for one ride. - Fatima",Billing Issue,Normal,Billing Issue-5
+E0220,"Hi, The price on the app and the final price do not match at all. - Sarah",Billing Issue,Normal,Billing Issue-7
+E0221,"Hi, Driver showed up so late that I had to rush through security. Not ok. This is unacceptable and I want a refund immediately. Thanks. - Rami",Late Pickup,High,Late Pickup-7
+E0222,"Hi, Lost my wallet during my trip to Pearson Airport, can you check with the driver? It is urgent, please call me back as soon as possible. Regards. - Liam",Lost Item,High,Lost Item-3
+E0223,"My booking reference is in the confirmation email. Hi, Something is off with my statement, there are two payments for one ride. Thanks. - Fatima",Billing Issue,Normal,Billing Issue-5
+E0224,"Hi, Our limo arrived 20 minutes after the scheduled time and we were late to the wedding. Thanks. - Olivia",Late Pickup,Normal,Late Pickup-4
+E0225,"Hi, He kept texting while driving through Terminal 1, I was scared the whole time. Regards. - Chen",Driver Behaviour,Normal,Driver Behaviour-6
+E0226,"Hi, The price on the app and the final price do not match at all. Please get back to me. - Priya",Billing Issue,Normal,Billing Issue-7
+E0227,"Hi, Can I change my pickup time tomorrow from around 11 pm to a later time? - Maya",Booking Change,Normal,Booking Change-0
+E0228,"Hi, Nobody was there when I came out of arrivals at Mississauga. I had to take another cab. Please get back to me. - Daniel",Late Pickup,Normal,Late Pickup-5
+E0229,"Hi, Something is off with my statement, there are two payments for one ride. This is unacceptable and I want a refund immediately. - Rami",Billing Issue,High,Billing Issue-5
+E0230,"Hi, My keys must have fallen out in the car, I can't find them anywhere since yesterday afternoon. Please get back to me. - Chen",Lost Item,Normal,Lost Item-5
+E0231,"Hi, Can I change my pickup time tomorrow from Friday evening to a later time? Regards. - Rami",Booking Change,Normal,Booking Change-0
+E0232,"Hi, Can you explain the extra fee on my invoice? I paid $89 instead of $40. I need this resolved today. - Chen",Billing Issue,High,Billing Issue-3
+E0233,"Hi, Did any driver find a pair of glasses? I had them before the ride to the hotel. Regards. - Daniel",Lost Item,Normal,Lost Item-7
+E0234,"I travel for work every week with your company. Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. - Rami",Booking Change,Normal,Booking Change-5
+E0235,"Hi, The fare on my receipt is $120 but I was quoted $60. Why the difference? Please get back to me. - Lina",Billing Issue,Normal,Billing Issue-1
+E0236,"Hi, The driver took a much longer route from Pearson Airport and argued when I asked about it. Thank you for your help. - Sarah",Driver Behaviour,Normal,Driver Behaviour-4
+E0237,"Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. - Maya",Lost Item,Normal,Lost Item-6
+E0238,"Hi, Driver showed up so late that I had to rush through security. Not ok. Please get back to me. - Priya",Late Pickup,Normal,Late Pickup-7
+E0239,"Hi, The driver took a much longer route from Square One and argued when I asked about it. Thanks. - Emma",Driver Behaviour,Normal,Driver Behaviour-4
+E0240,"Hi, I need to cancel my booking for Friday to Terminal 1. - Daniel",Booking Change,Normal,Booking Change-1
+E0241,"Hi, Something is off with my statement, there are two payments for one ride. Please get back to me. - Priya",Billing Issue,Normal,Billing Issue-5
+E0242,"Hi, Driver showed up so late that I had to rush through security. Not ok. Thanks. - Priya",Late Pickup,Normal,Late Pickup-7
+E0243,"Hi, Driver showed up so late that I had to rush through security. Not ok. Regards. - Fatima",Late Pickup,Normal,Late Pickup-7
+E0244,"My booking reference is in the confirmation email. Hi, I would like to book a car for 6 people next Saturday from my office. Thank you for your help. - Daniel",Booking Change,Normal,Booking Change-4
+E0245,"Hi, Lost my wallet during my trip to Pearson Airport, can you check with the driver? I will file a formal complaint if this is not fixed. Regards. - Noah",Lost Item,High,Lost Item-3
+E0246,"Hi, Can I change my pickup time tomorrow from last night to a later time? Please get back to me. - Noah",Booking Change,Normal,Booking Change-0
+E0247,"Hi, Driver showed up so late that I had to rush through security. Not ok. Regards. - Emma",Late Pickup,Normal,Late Pickup-7
+E0248,"Hi, The price on the app and the final price do not match at all. I need this resolved today. - Chen",Billing Issue,High,Billing Issue-7
+E0249,"Hi, Best airport transfer I've had in years, thank you Grace. Regards. - Daniel",Compliment,Normal,Compliment-7
+E0250,"Hi, The fare on my receipt is $89 but I was quoted $60. Why the difference? Regards. - Fatima",Billing Issue,Normal,Billing Issue-1
+E0251,"Hi, My credit card shows a charge of $120 for a ride I never took. Thank you for your help. - Ahmed",Billing Issue,Normal,Billing Issue-2
+E0252,"Hi, My keys must have fallen out in the car, I can't find them anywhere since around 11 pm. I need this resolved today. Regards. - Omar",Lost Item,High,Lost Item-5
+E0253,"This was for a trip with my family. Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Regards. - Noah",Booking Change,Normal,Booking Change-2
+E0254,"My booking reference is in the confirmation email. Hi, I was charged twice for my trip from my office 5 am. Please refund the extra charge. Regards. - Fatima",Billing Issue,Normal,Billing Issue-0
+E0255,"Hi, Your team was very helpful when I changed my booking. Much appreciated. - Carlos",Compliment,Normal,Compliment-3
+E0256,"My booking reference is in the confirmation email. Hi, My credit card shows a charge of $150 for a ride I never took. It is urgent, please call me back as soon as possible. Thank you for your help. - Rami",Billing Issue,High,Billing Issue-2
+E0257,"Hi, Your team was very helpful when I changed my booking. Much appreciated. Regards. - Julia",Compliment,Normal,Compliment-3
+E0258,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Thank you for your help. - Emma",Booking Change,Normal,Booking Change-5
+E0259,"Hi, My daughter left her backpack in the limo 5 am. How can we get it back? It is urgent, please call me back as soon as possible. Please get back to me. - Omar",Lost Item,High,Lost Item-2
+E0260,"Hi, My daughter left her backpack in the limo this morning. How can we get it back? I will file a formal complaint if this is not fixed. Thank you for your help. - Liam",Lost Item,High,Lost Item-2
+E0261,"Hi, My credit card shows a charge of $65 for a ride I never took. I need this resolved today. Thank you for your help. - Mark",Billing Issue,High,Billing Issue-2
+E0262,"Hi, My credit card shows a charge of $150 for a ride I never took. Please get back to me. - Daniel",Billing Issue,Normal,Billing Issue-2
+E0263,"Hi, The pickup at Square One was late again. This is the second time this month. Thanks. - Daniel",Late Pickup,Normal,Late Pickup-3
+E0264,"Hi, The fare on my receipt is $120 but I was quoted $110. Why the difference? Please get back to me. - Emma",Billing Issue,Normal,Billing Issue-1
+E0265,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. - Julia",Booking Change,Normal,Booking Change-2
+E0266,"Hi, He kept texting while driving through Mississauga, I was scared the whole time. I felt unsafe and I want someone to contact me right away. Regards. - Rami",Driver Behaviour,High,Driver Behaviour-6
+E0267,"Hi, Something is off with my statement, there are two payments for one ride. Please get back to me. - Grace",Billing Issue,Normal,Billing Issue-5
+E0268,"Hi, I paid cash but you still billed my card $120. Thanks. - Priya",Billing Issue,Normal,Billing Issue-6
+E0269,"Hi, Something is off with my statement, there are two payments for one ride. - Fatima",Billing Issue,Normal,Billing Issue-5
+E0270,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Please get back to me. - Olivia",Booking Change,Normal,Booking Change-5
+E0271,"Hi, The price on the app and the final price do not match at all. I need this resolved today. Thanks. - Chen",Billing Issue,High,Billing Issue-7
+E0272,"Hi, I paid cash but you still billed my card $48. Thanks. - Grace",Billing Issue,Normal,Billing Issue-6
+E0273,"Hi, I left a black suitcase in the trunk 6:30 this morning. It has important documents. Thank you for your help. - Julia",Lost Item,Normal,Lost Item-4
+E0274,"Hi, I paid cash but you still billed my card $120. Thanks. - Rami",Billing Issue,Normal,Billing Issue-6
+E0275,"Hi, I felt unsafe, the driver was driving aggressively 5 am. Thank you for your help. - Chen",Driver Behaviour,High,Driver Behaviour-2
+E0276,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. Regards. - Omar",Driver Behaviour,Normal,Driver Behaviour-5
+E0277,"Hi, I left my laptop bag in the car last night after a ride from my office. Please help. Thank you for your help. - Mark",Lost Item,Normal,Lost Item-0
+E0278,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Regards. - Olivia",Booking Change,Normal,Booking Change-5
+E0279,"Hi, Something is off with my statement, there are two payments for one ride. I need this resolved today. Thank you for your help. - Lina",Billing Issue,High,Billing Issue-5
+E0280,"Hi, The pickup at Pearson Airport was late again. This is the second time this month. Thank you for your help. - Lina",Late Pickup,Normal,Late Pickup-3
+E0281,"Hi, Waited at Mississauga for over 30 minutes, the driver never called. Very disappointing. I need this resolved today. Thank you for your help. - Carlos",Late Pickup,High,Late Pickup-2
+E0282,"Hi, I left my laptop bag in the car this morning after a ride from the hotel. Please help. It is urgent, please call me back as soon as possible. Regards. - Mark",Lost Item,High,Lost Item-0
+E0283,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Thanks. - Chen",Booking Change,Normal,Booking Change-2
+E0284,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Thanks. - Lina",Booking Change,Normal,Booking Change-2
+E0285,"My booking reference is in the confirmation email. Hi, Your team was very helpful when I changed my booking. Much appreciated. Regards. - Noah",Compliment,Normal,Compliment-3
+E0286,"Hi, I really appreciated how patient the driver was with my kids. Please get back to me. - Maya",Compliment,Normal,Compliment-6
+E0287,"I'm a regular customer and usually book through the app. Hi, Can you explain the extra fee on my invoice? I paid $150 instead of $75. Thank you for your help. - Fatima",Billing Issue,Normal,Billing Issue-3
+E0288,"Hi, Can you explain the extra fee on my invoice? I paid $48 instead of $55. It is urgent, please call me back as soon as possible. Please get back to me. - Omar",Billing Issue,High,Billing Issue-3
+E0289,"Hi, He kept texting while driving through my office, I was scared the whole time. Please get back to me. - Mark",Driver Behaviour,Normal,Driver Behaviour-6
+E0290,"Hi, Can you explain the extra fee on my invoice? I paid $72 instead of $95. Regards. - Omar",Billing Issue,Normal,Billing Issue-3
+E0291,"Hi, Can you explain the extra fee on my invoice? I paid $120 instead of $75. Thanks. - Emma",Billing Issue,Normal,Billing Issue-3
+E0292,"Hi, Just wanted to say Chen, my driver, was excellent and very friendly. Thank you! - Grace",Compliment,Normal,Compliment-0
+E0293,"Hi, My credit card shows a charge of $150 for a ride I never took. Thank you for your help. - Julia",Billing Issue,Normal,Billing Issue-2
+E0294,"Hi, Just wanted to say Hassan, my driver, was excellent and very friendly. Thank you! - Rami",Compliment,Normal,Compliment-0
+E0295,"Hi, The driver was rude to me and refused to help with my luggage at the hotel. Regards. - Julia",Driver Behaviour,Normal,Driver Behaviour-0
+E0296,"Hi, Our limo arrived 30 minutes after the scheduled time and we were late to the wedding. Please get back to me. - Julia",Late Pickup,Normal,Late Pickup-4
+E0297,"Hi, Driver showed up so late that I had to rush through security. Not ok. - Noah",Late Pickup,Normal,Late Pickup-7
+E0298,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Please get back to me. - Olivia",Booking Change,Normal,Booking Change-2
+E0299,"Hi, Our limo arrived 40 minutes after the scheduled time and we were late to the wedding. It is urgent, please call me back as soon as possible. - Chen",Late Pickup,High,Late Pickup-4
+E0300,"Hi, My driver was on the phone the whole ride and was speeding on the highway. Thanks. - Ahmed",Driver Behaviour,High,Driver Behaviour-1
+E0301,"Hi, You promised the car at Sunday, it came way after. I lost an important meeting. Regards. - Lina",Late Pickup,Normal,Late Pickup-6
+E0302,"Hi, Nobody was there when I came out of arrivals at downtown Toronto. I had to take another cab. Thank you for your help. - Lina",Late Pickup,Normal,Late Pickup-5
+E0303,"Hi, He kept texting while driving through Terminal 3, I was scared the whole time. I need this resolved today. Regards. - Omar",Driver Behaviour,High,Driver Behaviour-6
+E0304,"Hi, I paid cash but you still billed my card $150. I need this resolved today. Thank you for your help. - Mark",Billing Issue,High,Billing Issue-6
+E0305,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Thanks. - Noah",Booking Change,Normal,Booking Change-5
+E0306,"Hi, Can I change my pickup time tomorrow from last night to a later time? Thank you for your help. - Noah",Booking Change,Normal,Booking Change-0
+E0307,"This was for a trip with my family. Hi, My driver was 60 minutes late picking me up at Square One. I almost missed my flight. - Maya",Late Pickup,Normal,Late Pickup-0
+E0308,"Hi, My driver was on the phone the whole ride and was speeding on the highway. I will file a formal complaint if this is not fixed. Regards. - Olivia",Driver Behaviour,High,Driver Behaviour-1
+E0309,"My booking reference is in the confirmation email. Hi, I booked a car for around 11 pm but nobody showed up until 25 minutes later. Regards. - Yusuf",Late Pickup,Normal,Late Pickup-1
+E0310,"Hi, Please move my airport ride one hour earlier. - Daniel",Booking Change,Normal,Booking Change-6
+E0311,"Hi, My credit card shows a charge of $72 for a ride I never took. Please get back to me. - Ahmed",Billing Issue,Normal,Billing Issue-2
+E0312,"Hi, Is it possible to add a stop at North York on my booking? Please get back to me. - Yusuf",Booking Change,Normal,Booking Change-3
+E0313,"Hi, The fare on my receipt is $89 but I was quoted $75. Why the difference? I felt unsafe and I want someone to contact me right away. Thanks. - Fatima",Billing Issue,High,Billing Issue-1
+E0314,"Hi, Something is off with my statement, there are two payments for one ride. Regards. - Sarah",Billing Issue,Normal,Billing Issue-5
+E0315,"Hi, My driver was on the phone the whole ride and was speeding on the highway. I will file a formal complaint if this is not fixed. Thank you for your help. - Emma",Driver Behaviour,High,Driver Behaviour-1
+E0316,"My booking reference is in the confirmation email. Hi, Nobody was there when I came out of arrivals at my office. I had to take another cab. I need this resolved today. Regards. - Hassan",Late Pickup,High,Late Pickup-5
+E0317,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Thank you for your help. - Priya",Booking Change,Normal,Booking Change-5
+E0318,"Hi, I would like to book a car for 6 people next Saturday from Union Station. Thank you for your help. - Carlos",Booking Change,Normal,Booking Change-4
+E0319,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. - Julia",Driver Behaviour,Normal,Driver Behaviour-5
+E0320,"My booking reference is in the confirmation email. Hi, Driver showed up so late that I had to rush through security. Not ok. Thank you for your help. - Carlos",Late Pickup,Normal,Late Pickup-7
+E0321,"Hi, My credit card shows a charge of $65 for a ride I never took. - Maya",Billing Issue,Normal,Billing Issue-2
+E0322,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. - Mark",Driver Behaviour,Normal,Driver Behaviour-5
+E0323,"Hi, I booked a car for last night but nobody showed up until 20 minutes later. Thanks. - Fatima",Late Pickup,Normal,Late Pickup-1
+E0324,"Hi, I need to cancel my booking for Friday to North York. Thanks. - Hassan",Booking Change,Normal,Booking Change-1
+E0325,"This was for a trip with my family. Hi, Can you explain the extra fee on my invoice? I paid $150 instead of $75. Regards. - Daniel",Billing Issue,Normal,Billing Issue-3
+E0326,"Hi, My keys must have fallen out in the car, I can't find them anywhere since this morning. This is unacceptable and I want a refund immediately. Regards. - Grace",Lost Item,High,Lost Item-5
+E0327,"Hi, Is it possible to add a stop at Union Station on my booking? Please get back to me. - Omar",Booking Change,Normal,Booking Change-3
+E0328,"I'm a regular customer and usually book through the app. Hi, I need a corrected receipt for my business trip, the amount is wrong. - Emma",Billing Issue,Normal,Billing Issue-4
+E0329,"Hi, My driver was 45 minutes late picking me up at Square One. I almost missed my flight. Thanks. - Hassan",Late Pickup,Normal,Late Pickup-0
+E0330,"Hi, I left my laptop bag in the car Friday evening after a ride from North York. Please help. This is unacceptable and I want a refund immediately. Thanks. - Olivia",Lost Item,High,Lost Item-0
+E0331,"Hi, Nobody was there when I came out of arrivals at Pearson Airport. I had to take another cab. Thank you for your help. - Rami",Late Pickup,Normal,Late Pickup-5
+E0332,"Hi, I booked a car for yesterday afternoon but nobody showed up until 25 minutes later. Thank you for your help. - Daniel",Late Pickup,Normal,Late Pickup-1
+E0333,"Hi, Something is off with my statement, there are two payments for one ride. Thank you for your help. - Noah",Billing Issue,Normal,Billing Issue-5
+E0334,"Hi, Waited at downtown Toronto for over 40 minutes, the driver never called. Very disappointing. I need this resolved today. Thanks. - Priya",Late Pickup,High,Late Pickup-2
+E0335,"Hi, Did any driver find a pair of glasses? I had them before the ride to Union Station. Thank you for your help. - Yusuf",Lost Item,Normal,Lost Item-7
+E0336,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Thank you for your help. - Sarah",Booking Change,Normal,Booking Change-2
+E0337,"Hi, I booked a car for this morning but nobody showed up until 25 minutes later. - Ahmed",Late Pickup,Normal,Late Pickup-1
+E0338,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Please get back to me. - Noah",Booking Change,Normal,Booking Change-5
+E0339,"Hi, My credit card shows a charge of $48 for a ride I never took. - Carlos",Billing Issue,Normal,Billing Issue-2
+E0340,"My booking reference is in the confirmation email. Hi, Driver showed up so late that I had to rush through security. Not ok. I will file a formal complaint if this is not fixed. Please get back to me. - Liam",Late Pickup,High,Late Pickup-7
+E0341,"Hi, He kept texting while driving through Mississauga, I was scared the whole time. Please get back to me. - Sarah",Driver Behaviour,Normal,Driver Behaviour-6
+E0342,"Hi, He kept texting while driving through the hotel, I was scared the whole time. Thanks. - Liam",Driver Behaviour,Normal,Driver Behaviour-6
+E0343,"Hi, Your team was very helpful when I changed my booking. Much appreciated. Please get back to me. - Liam",Compliment,Normal,Compliment-3
+E0344,"Hi, The limo for our event was perfect. Everyone loved it. Regards. - Ahmed",Compliment,Normal,Compliment-4
+E0345,"Hi, Waited at Terminal 3 for over 20 minutes, the driver never called. Very disappointing. - Hassan",Late Pickup,Normal,Late Pickup-2
+E0346,"Hi, The fare on my receipt is $120 but I was quoted $40. Why the difference? I will file a formal complaint if this is not fixed. Thanks. - Fatima",Billing Issue,High,Billing Issue-1
+E0347,"Hi, Lost my wallet during my trip to downtown Toronto, can you check with the driver? Thanks. - Rami",Lost Item,Normal,Lost Item-3
+E0348,"This was for a trip with my family. Hi, I left a black suitcase in the trunk yesterday afternoon. It has important documents. Thank you for your help. - Ahmed",Lost Item,Normal,Lost Item-4
+E0349,"Hi, I really appreciated how patient the driver was with my kids. Thanks. - Julia",Compliment,Normal,Compliment-6
+E0350,"Hi, The driver smelled of smoke and was very unprofessional. This is unacceptable and I want a refund immediately. Thanks. - Liam",Driver Behaviour,High,Driver Behaviour-3
+E0351,"Hi, I need to cancel my booking for Friday to downtown Toronto. Thank you for your help. - Grace",Booking Change,Normal,Booking Change-1
+E0352,"Hi, The driver was rude to me and refused to help with my luggage at Terminal 1. Thanks. - Rami",Driver Behaviour,Normal,Driver Behaviour-0
+E0353,"Hi, Something is off with my statement, there are two payments for one ride. Thank you for your help. - Ahmed",Billing Issue,Normal,Billing Issue-5
+E0354,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Thank you for your help. - Carlos",Booking Change,Normal,Booking Change-5
+E0355,"I travel for work every week with your company. Hi, I think I forgot my phone in the back seat of the taxi from Square One. Thank you for your help. - Lina",Lost Item,Normal,Lost Item-1
+E0356,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. Please get back to me. - Chen",Driver Behaviour,Normal,Driver Behaviour-5
+E0357,"I'm a regular customer and usually book through the app. Hi, The pickup at Union Station was late again. This is the second time this month. I felt unsafe and I want someone to contact me right away. Thanks. - Julia",Late Pickup,High,Late Pickup-3
+E0358,"This was for a trip with my family. Hi, Please move my airport ride one hour earlier. Thanks. - Julia",Booking Change,Normal,Booking Change-6
+E0359,"My booking reference is in the confirmation email. Hi, The driver took a much longer route from my office and argued when I asked about it. I need this resolved today. - Priya",Driver Behaviour,High,Driver Behaviour-4
+E0360,"Hi, Please move my airport ride one hour earlier. Please get back to me. - Rami",Booking Change,Normal,Booking Change-6
+E0361,"Hi, Please move my airport ride one hour earlier. Please get back to me. - Ahmed",Booking Change,Normal,Booking Change-6
+E0362,"I'm a regular customer and usually book through the app. Hi, Your team was very helpful when I changed my booking. Much appreciated. Please get back to me. - Olivia",Compliment,Normal,Compliment-3
+E0363,"I'm a regular customer and usually book through the app. Hi, Something is off with my statement, there are two payments for one ride. Regards. - Emma",Billing Issue,Normal,Billing Issue-5
+E0364,"Hi, My keys must have fallen out in the car, I can't find them anywhere since Friday evening. Regards. - Hassan",Lost Item,Normal,Lost Item-5
+E0365,"Hi, The price on the app and the final price do not match at all. Thanks. - Rami",Billing Issue,Normal,Billing Issue-7
+E0366,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. Please get back to me. - Sarah",Compliment,Normal,Compliment-5
+E0367,"Hi, My credit card shows a charge of $89 for a ride I never took. Thank you for your help. - Carlos",Billing Issue,Normal,Billing Issue-2
+E0368,"Hi, I think I forgot my phone in the back seat of the taxi from Pearson Airport. - Mark",Lost Item,Normal,Lost Item-1
+E0369,"Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. I will file a formal complaint if this is not fixed. Thanks. - Sarah",Lost Item,High,Lost Item-6
+E0370,"Hi, Did any driver find a pair of glasses? I had them before the ride to Mississauga. Regards. - Liam",Lost Item,Normal,Lost Item-7
+E0371,"I travel for work every week with your company. Hi, The price on the app and the final price do not match at all. Thanks. - Carlos",Billing Issue,Normal,Billing Issue-7
+E0372,"Hi, Can I change my pickup time tomorrow from around 11 pm to a later time? - Ahmed",Booking Change,Normal,Booking Change-0
+E0373,"Hi, I need to cancel my booking for Friday to North York. This is unacceptable and I want a refund immediately. Regards. - Fatima",Booking Change,High,Booking Change-1
+E0374,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. I need this resolved today. Thank you for your help. - Ahmed",Booking Change,High,Booking Change-2
+E0375,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Regards. - Lina",Booking Change,Normal,Booking Change-2
+E0376,"Hi, Can I switch my reservation to a bigger vehicle for downtown Toronto? Thanks. - Omar",Booking Change,Normal,Booking Change-7
+E0377,"Hi, The driver smelled of smoke and was very unprofessional. - Hassan",Driver Behaviour,Normal,Driver Behaviour-3
+E0378,"Hi, My driver was 25 minutes late picking me up at Union Station. I almost missed my flight. This is unacceptable and I want a refund immediately. Thanks. - Priya",Late Pickup,High,Late Pickup-0
+E0379,"Hi, Just wanted to say Priya, my driver, was excellent and very friendly. Thank you! Please get back to me. - Sarah",Compliment,Normal,Compliment-0
+E0380,"Hi, I need to cancel my booking for Friday to North York. Thanks. - Olivia",Booking Change,Normal,Booking Change-1
+E0381,"Hi, Very impolite driver, he did not even say hello and slammed the trunk. It is urgent, please call me back as soon as possible. - Mark",Driver Behaviour,High,Driver Behaviour-7
+E0382,"Hi, Please move my airport ride one hour earlier. Regards. - Daniel",Booking Change,Normal,Booking Change-6
+E0383,"Hi, The driver was rude to me and refused to help with my luggage at downtown Toronto. Thanks. - Carlos",Driver Behaviour,Normal,Driver Behaviour-0
+E0384,"Hi, You promised the car at Friday evening, it came way after. I lost an important meeting. This is unacceptable and I want a refund immediately. Regards. - Priya",Late Pickup,High,Late Pickup-6
+E0385,"Hi, I really appreciated how patient the driver was with my kids. Thanks. - Ahmed",Compliment,Normal,Compliment-6
+E0386,"I travel for work every week with your company. Hi, Very impolite driver, he did not even say hello and slammed the trunk. It is urgent, please call me back as soon as possible. Thanks. - Maya",Driver Behaviour,High,Driver Behaviour-7
+E0387,"I'm a regular customer and usually book through the app. Hi, The driver took a much longer route from my office and argued when I asked about it. I need this resolved today. Thanks. - Maya",Driver Behaviour,High,Driver Behaviour-4
+E0388,"Hi, Can you explain the extra fee on my invoice? I paid $120 instead of $95. I need this resolved today. - Grace",Billing Issue,High,Billing Issue-3
+E0389,"This was for a trip with my family. Hi, My driver was on the phone the whole ride and was speeding on the highway. Regards. - Omar",Driver Behaviour,High,Driver Behaviour-1
+E0390,"Hi, My credit card shows a charge of $150 for a ride I never took. - Lina",Billing Issue,Normal,Billing Issue-2
+E0391,"Hi, My driver was on the phone the whole ride and was speeding on the highway. It is urgent, please call me back as soon as possible. Please get back to me. - Julia",Driver Behaviour,High,Driver Behaviour-1
+E0392,"Hi, I booked a car for 6:30 this morning but nobody showed up until 30 minutes later. Thank you for your help. - Mark",Late Pickup,Normal,Late Pickup-1
+E0393,"Hi, I booked a car for this morning but nobody showed up until 20 minutes later. - Julia",Late Pickup,Normal,Late Pickup-1
+E0394,"Hi, I need to cancel my booking for Friday to North York. Please get back to me. - Chen",Booking Change,Normal,Booking Change-1
+E0395,"Hi, Did any driver find a pair of glasses? I had them before the ride to the hotel. I felt unsafe and I want someone to contact me right away. Thank you for your help. - Olivia",Lost Item,High,Lost Item-7
+E0396,"Hi, Waited at my office for over 25 minutes, the driver never called. Very disappointing. I felt unsafe and I want someone to contact me right away. - Maya",Late Pickup,High,Late Pickup-2
+E0397,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Thank you for your help. - Olivia",Booking Change,Normal,Booking Change-5
+E0398,"Hi, Is it possible to add a stop at Square One on my booking? Regards. - Ahmed",Booking Change,Normal,Booking Change-3
+E0399,"This was for a trip with my family. Hi, Our limo arrived 45 minutes after the scheduled time and we were late to the wedding. Please get back to me. - Carlos",Late Pickup,Normal,Late Pickup-4
+E0400,"Hi, The pickup at Pearson Airport was late again. This is the second time this month. It is urgent, please call me back as soon as possible. Regards. - Noah",Late Pickup,High,Late Pickup-3
+E0401,"Hi, I really appreciated how patient the driver was with my kids. Please get back to me. - Omar",Compliment,Normal,Compliment-6
+E0402,"Hi, You promised the car at Friday evening, it came way after. I lost an important meeting. Thanks. - Julia",Late Pickup,Normal,Late Pickup-6
+E0403,"Hi, The pickup at downtown Toronto was late again. This is the second time this month. Please get back to me. - Lina",Late Pickup,Normal,Late Pickup-3
+E0404,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Please get back to me. - Carlos",Booking Change,Normal,Booking Change-5
+E0405,"Hi, My driver was on the phone the whole ride and was speeding on the highway. I will file a formal complaint if this is not fixed. Please get back to me. - Mark",Driver Behaviour,High,Driver Behaviour-1
+E0406,"Hi, Can I change my pickup time tomorrow from Sunday to a later time? Thank you for your help. - Olivia",Booking Change,Normal,Booking Change-0
+E0407,"Hi, I need a corrected receipt for my business trip, the amount is wrong. I need this resolved today. Regards. - Hassan",Billing Issue,High,Billing Issue-4
+E0408,"Hi, I paid cash but you still billed my card $89. I need this resolved today. Thank you for your help. - Sarah",Billing Issue,High,Billing Issue-6
+E0409,"Hi, I paid cash but you still billed my card $48. I need this resolved today. Please get back to me. - Olivia",Billing Issue,High,Billing Issue-6
+E0410,"Hi, I think I forgot my phone in the back seat of the taxi from Mississauga. - Fatima",Lost Item,Normal,Lost Item-1
+E0411,"Hi, I booked a car for 5 am but nobody showed up until 25 minutes later. Regards. - Emma",Late Pickup,Normal,Late Pickup-1
+E0412,"Hi, My keys must have fallen out in the car, I can't find them anywhere since Sunday. Thank you for your help. - Grace",Lost Item,Normal,Lost Item-5
+E0413,"Hi, The driver took a much longer route from the hotel and argued when I asked about it. Thank you for your help. - Carlos",Driver Behaviour,Normal,Driver Behaviour-4
+E0414,"Hi, I need a corrected receipt for my business trip, the amount is wrong. Please get back to me. - Grace",Billing Issue,Normal,Billing Issue-4
+E0415,"Hi, Can I change my pickup time tomorrow from yesterday afternoon to a later time? Thanks. - Carlos",Booking Change,Normal,Booking Change-0
+E0416,"Hi, Best airport transfer I've had in years, thank you Carlos. - Omar",Compliment,Normal,Compliment-7
+E0417,"Hi, My driver was on the phone the whole ride and was speeding on the highway. It is urgent, please call me back as soon as possible. Regards. - Sarah",Driver Behaviour,High,Driver Behaviour-1
+E0418,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. Regards. - Emma",Compliment,Normal,Compliment-5
+E0419,"Hi, My keys must have fallen out in the car, I can't find them anywhere since 5 am. This is unacceptable and I want a refund immediately. - Rami",Lost Item,High,Lost Item-5
+E0420,"Hi, The driver smelled of smoke and was very unprofessional. I need this resolved today. Regards. - Rami",Driver Behaviour,High,Driver Behaviour-3
+E0421,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Regards. - Yusuf",Booking Change,Normal,Booking Change-2
+E0422,"This was for a trip with my family. Hi, I would like to book a car for 6 people next Saturday from Mississauga. Please get back to me. - Priya",Booking Change,Normal,Booking Change-4
+E0423,"Hi, He kept texting while driving through North York, I was scared the whole time. I felt unsafe and I want someone to contact me right away. - Chen",Driver Behaviour,High,Driver Behaviour-6
+E0424,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. I need this resolved today. - Julia",Booking Change,High,Booking Change-2
+E0425,"Hi, Lost my wallet during my trip to Mississauga, can you check with the driver? I will file a formal complaint if this is not fixed. - Sarah",Lost Item,High,Lost Item-3
+E0426,"Hi, Something is off with my statement, there are two payments for one ride. Thanks. - Sarah",Billing Issue,Normal,Billing Issue-5
+E0427,"Hi, Very impolite driver, he did not even say hello and slammed the trunk. Regards. - Liam",Driver Behaviour,Normal,Driver Behaviour-7
+E0428,"Hi, I need to cancel my booking for Friday to Terminal 3. - Emma",Booking Change,Normal,Booking Change-1
+E0429,"Hi, Can I change my pickup time tomorrow from Sunday to a later time? Thank you for your help. - Ahmed",Booking Change,Normal,Booking Change-0
+E0430,"Hi, Can I switch my reservation to a bigger vehicle for Mississauga? Thanks. - Emma",Booking Change,Normal,Booking Change-7
+E0431,"Hi, I was charged twice for my trip from Mississauga last night. Please refund the extra charge. This is unacceptable and I want a refund immediately. - Lina",Billing Issue,High,Billing Issue-0
+E0432,"Hi, My driver was 60 minutes late picking me up at downtown Toronto. I almost missed my flight. Regards. - Grace",Late Pickup,Normal,Late Pickup-0
+E0433,"I'm a regular customer and usually book through the app. Hi, My credit card shows a charge of $120 for a ride I never took. It is urgent, please call me back as soon as possible. Regards. - Carlos",Billing Issue,High,Billing Issue-2
+E0434,"Hi, The pickup at Union Station was late again. This is the second time this month. Thanks. - Julia",Late Pickup,Normal,Late Pickup-3
+E0435,"Hi, The driver smelled of smoke and was very unprofessional. I will file a formal complaint if this is not fixed. Please get back to me. - Grace",Driver Behaviour,High,Driver Behaviour-3
+E0436,"Hi, Waited at Pearson Airport for over 15 minutes, the driver never called. Very disappointing. Please get back to me. - Daniel",Late Pickup,Normal,Late Pickup-2
+E0437,"My booking reference is in the confirmation email. Hi, The price on the app and the final price do not match at all. I need this resolved today. - Grace",Billing Issue,High,Billing Issue-7
+E0438,"I'm a regular customer and usually book through the app. Hi, Great service yesterday afternoon, the car was clean and on time. I will book again. Thank you for your help. - Noah",Compliment,Normal,Compliment-1
+E0439,"Hi, I booked a car for last night but nobody showed up until 40 minutes later. I need this resolved today. Regards. - Priya",Late Pickup,High,Late Pickup-1
+E0440,"Hi, The pickup at Terminal 3 was late again. This is the second time this month. Regards. - Emma",Late Pickup,Normal,Late Pickup-3
+E0441,"Hi, The driver smelled of smoke and was very unprofessional. Thanks. - Yusuf",Driver Behaviour,Normal,Driver Behaviour-3
+E0442,"Hi, He kept texting while driving through North York, I was scared the whole time. It is urgent, please call me back as soon as possible. - Ahmed",Driver Behaviour,High,Driver Behaviour-6
+E0443,"Hi, Please move my airport ride one hour earlier. - Lina",Booking Change,Normal,Booking Change-6
+E0444,"Hi, I need to cancel my booking for Friday to Square One. Please get back to me. - Julia",Booking Change,Normal,Booking Change-1
+E0445,"I'm a regular customer and usually book through the app. Hi, Driver showed up so late that I had to rush through security. Not ok. - Fatima",Late Pickup,Normal,Late Pickup-7
+E0446,"Hi, Something is off with my statement, there are two payments for one ride. - Carlos",Billing Issue,Normal,Billing Issue-5
+E0447,"Hi, Thank you for getting me to Mississauga so quickly. Amazing driver. - Daniel",Compliment,Normal,Compliment-2
+E0448,"Hi, The limo for our event was perfect. Everyone loved it. Thank you for your help. - Sarah",Compliment,Normal,Compliment-4
+E0449,"Hi, The pickup at my office was late again. This is the second time this month. Regards. - Ahmed",Late Pickup,Normal,Late Pickup-3
+E0450,"Hi, You promised the car at around 11 pm, it came way after. I lost an important meeting. - Grace",Late Pickup,Normal,Late Pickup-6
+E0451,"Hi, Great service Sunday, the car was clean and on time. I will book again. Please get back to me. - Lina",Compliment,Normal,Compliment-1
+E0452,"Hi, The driver took a much longer route from North York and argued when I asked about it. Regards. - Lina",Driver Behaviour,Normal,Driver Behaviour-4
+E0453,"Hi, The driver was rude to me and refused to help with my luggage at my office. Thank you for your help. - Julia",Driver Behaviour,Normal,Driver Behaviour-0
+E0454,"Hi, I need to cancel my booking for Friday to Mississauga. I need this resolved today. Please get back to me. - Liam",Booking Change,High,Booking Change-1
+E0455,"Hi, I booked a car for 6:30 this morning but nobody showed up until 60 minutes later. This is unacceptable and I want a refund immediately. - Julia",Late Pickup,High,Late Pickup-1
+E0456,"Hi, Our limo arrived 60 minutes after the scheduled time and we were late to the wedding. I felt unsafe and I want someone to contact me right away. Thank you for your help. - Ahmed",Late Pickup,High,Late Pickup-4
+E0457,"This was for a trip with my family. Hi, You promised the car at 6:30 this morning, it came way after. I lost an important meeting. It is urgent, please call me back as soon as possible. Please get back to me. - Ahmed",Late Pickup,High,Late Pickup-6
+E0458,"Hi, Our limo arrived 45 minutes after the scheduled time and we were late to the wedding. I need this resolved today. Thanks. - Omar",Late Pickup,High,Late Pickup-4
+E0459,"Hi, I really appreciated how patient the driver was with my kids. Thank you for your help. - Ahmed",Compliment,Normal,Compliment-6
+E0460,"Hi, My credit card shows a charge of $65 for a ride I never took. I felt unsafe and I want someone to contact me right away. Please get back to me. - Noah",Billing Issue,High,Billing Issue-2
+E0461,"I travel for work every week with your company. Hi, The price on the app and the final price do not match at all. - Fatima",Billing Issue,Normal,Billing Issue-7
+E0462,"Hi, Thank you for getting me to Terminal 3 so quickly. Amazing driver. Thank you for your help. - Carlos",Compliment,Normal,Compliment-2
+E0463,"Hi, I really appreciated how patient the driver was with my kids. Thank you for your help. - Ahmed",Compliment,Normal,Compliment-6
+E0464,"Hi, Can you explain the extra fee on my invoice? I paid $65 instead of $40. This is unacceptable and I want a refund immediately. - Maya",Billing Issue,High,Billing Issue-3
+E0465,"Hi, The fare on my receipt is $89 but I was quoted $55. Why the difference? Regards. - Fatima",Billing Issue,Normal,Billing Issue-1
+E0466,"Hi, Driver showed up so late that I had to rush through security. Not ok. Thanks. - Hassan",Late Pickup,Normal,Late Pickup-7
+E0467,"Hi, The limo for our event was perfect. Everyone loved it. Please get back to me. - Chen",Compliment,Normal,Compliment-4
+E0468,"Hi, Great service yesterday afternoon, the car was clean and on time. I will book again. Thanks. - Liam",Compliment,Normal,Compliment-1
+E0469,"Hi, Please move my airport ride one hour earlier. Regards. - Julia",Booking Change,Normal,Booking Change-6
+E0470,"Hi, Please move my airport ride one hour earlier. Thanks. - Noah",Booking Change,Normal,Booking Change-6
+E0471,"Hi, I really appreciated how patient the driver was with my kids. Please get back to me. - Daniel",Compliment,Normal,Compliment-6
+E0472,"Hi, I was charged twice for my trip from Square One last night. Please refund the extra charge. It is urgent, please call me back as soon as possible. Regards. - Fatima",Billing Issue,High,Billing Issue-0
+E0473,"Hi, Waited at Mississauga for over 25 minutes, the driver never called. Very disappointing. It is urgent, please call me back as soon as possible. Regards. - Carlos",Late Pickup,High,Late Pickup-2
+E0474,"Hi, I left a black suitcase in the trunk around 11 pm. It has important documents. I will file a formal complaint if this is not fixed. Thank you for your help. - Mark",Lost Item,High,Lost Item-4
+E0475,"Hi, Very impolite driver, he did not even say hello and slammed the trunk. Thanks. - Fatima",Driver Behaviour,Normal,Driver Behaviour-7
+E0476,"Hi, I really appreciated how patient the driver was with my kids. Thank you for your help. - Mark",Compliment,Normal,Compliment-6
+E0477,"Hi, I really appreciated how patient the driver was with my kids. Please get back to me. - Fatima",Compliment,Normal,Compliment-6
+E0478,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Regards. - Lina",Booking Change,Normal,Booking Change-5
+E0479,"Hi, My credit card shows a charge of $150 for a ride I never took. Please get back to me. - Maya",Billing Issue,Normal,Billing Issue-2
+E0480,"Hi, I paid cash but you still billed my card $65. - Lina",Billing Issue,Normal,Billing Issue-6
+E0481,"Hi, Very impolite driver, he did not even say hello and slammed the trunk. Regards. - Liam",Driver Behaviour,Normal,Driver Behaviour-7
+E0482,"Hi, I need to cancel my booking for Friday to Pearson Airport. Thanks. - Hassan",Booking Change,Normal,Booking Change-1
+E0483,"Hi, I need to cancel my booking for Friday to Pearson Airport. Thanks. - Noah",Booking Change,Normal,Booking Change-1
+E0484,"Hi, My driver was on the phone the whole ride and was speeding on the highway. This is unacceptable and I want a refund immediately. Regards. - Chen",Driver Behaviour,High,Driver Behaviour-1
+E0485,"Hi, Can I change my pickup time tomorrow from around 11 pm to a later time? Thank you for your help. - Liam",Booking Change,Normal,Booking Change-0
+E0486,"Hi, My driver was 60 minutes late picking me up at Pearson Airport. I almost missed my flight. Thanks. - Rami",Late Pickup,Normal,Late Pickup-0
+E0487,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Regards. - Olivia",Booking Change,Normal,Booking Change-2
+E0488,"My booking reference is in the confirmation email. Hi, Can you explain the extra fee on my invoice? I paid $48 instead of $55. Regards. - Yusuf",Billing Issue,Normal,Billing Issue-3
+E0489,"Hi, My credit card shows a charge of $150 for a ride I never took. - Grace",Billing Issue,Normal,Billing Issue-2
+E0490,"Hi, Great service 6:30 this morning, the car was clean and on time. I will book again. Please get back to me. - Carlos",Compliment,Normal,Compliment-1
+E0491,"Hi, He kept texting while driving through Union Station, I was scared the whole time. This is unacceptable and I want a refund immediately. Please get back to me. - Mark",Driver Behaviour,High,Driver Behaviour-6
+E0492,"Hi, You promised the car at Friday evening, it came way after. I lost an important meeting. Thank you for your help. - Priya",Late Pickup,Normal,Late Pickup-6
+E0493,"Hi, The fare on my receipt is $48 but I was quoted $110. Why the difference? I will file a formal complaint if this is not fixed. Thanks. - Olivia",Billing Issue,High,Billing Issue-1
+E0494,"Hi, I need to cancel my booking for Friday to Union Station. Please get back to me. - Noah",Booking Change,Normal,Booking Change-1
+E0495,"Hi, My credit card shows a charge of $120 for a ride I never took. - Maya",Billing Issue,Normal,Billing Issue-2
+E0496,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Thank you for your help. - Grace",Booking Change,Normal,Booking Change-5
+E0497,"Hi, Waited at Terminal 1 for over 30 minutes, the driver never called. Very disappointing. I will file a formal complaint if this is not fixed. Please get back to me. - Mark",Late Pickup,High,Late Pickup-2
+E0498,"Hi, He kept texting while driving through my office, I was scared the whole time. I will file a formal complaint if this is not fixed. - Rami",Driver Behaviour,High,Driver Behaviour-6
+E0499,"Hi, Please move my airport ride one hour earlier. Please get back to me. - Lina",Booking Change,Normal,Booking Change-6
+E0500,"Hi, My daughter left her backpack in the limo last night. How can we get it back? Regards. - Lina",Lost Item,Normal,Lost Item-2
+E0501,"Hi, Something is off with my statement, there are two payments for one ride. Please get back to me. - Emma",Billing Issue,Normal,Billing Issue-5
+E0502,"Hi, Your team was very helpful when I changed my booking. Much appreciated. Thank you for your help. - Maya",Compliment,Normal,Compliment-3
+E0503,"Hi, Our limo arrived 40 minutes after the scheduled time and we were late to the wedding. Regards. - Lina",Late Pickup,Normal,Late Pickup-4
+E0504,"Hi, The limo for our event was perfect. Everyone loved it. Please get back to me. - Hassan",Compliment,Normal,Compliment-4
+E0505,"Hi, Can I change my pickup time tomorrow from this morning to a later time? Please get back to me. - Hassan",Booking Change,Normal,Booking Change-0
+E0506,"I travel for work every week with your company. Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. Thanks. - Omar",Lost Item,Normal,Lost Item-6
+E0507,"Hi, Waited at Pearson Airport for over 30 minutes, the driver never called. Very disappointing. This is unacceptable and I want a refund immediately. Please get back to me. - Daniel",Late Pickup,High,Late Pickup-2
+E0508,"Hi, The driver took a much longer route from North York and argued when I asked about it. It is urgent, please call me back as soon as possible. - Daniel",Driver Behaviour,High,Driver Behaviour-4
+E0509,"Hi, The pickup at downtown Toronto was late again. This is the second time this month. Thanks. - Liam",Late Pickup,Normal,Late Pickup-3
+E0510,"This was for a trip with my family. Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Thanks. - Grace",Booking Change,Normal,Booking Change-2
+E0511,"Hi, I left my laptop bag in the car 5 am after a ride from my office. Please help. It is urgent, please call me back as soon as possible. Regards. - Omar",Lost Item,High,Lost Item-0
+E0512,"Hi, He kept texting while driving through the hotel, I was scared the whole time. - Carlos",Driver Behaviour,Normal,Driver Behaviour-6
+E0513,"Hi, Nobody was there when I came out of arrivals at Terminal 3. I had to take another cab. Regards. - Omar",Late Pickup,Normal,Late Pickup-5
+E0514,"Hi, The price on the app and the final price do not match at all. Please get back to me. - Ahmed",Billing Issue,Normal,Billing Issue-7
+E0515,"This was for a trip with my family. Hi, The price on the app and the final price do not match at all. I will file a formal complaint if this is not fixed. Regards. - Lina",Billing Issue,High,Billing Issue-7
+E0516,"Hi, My daughter left her backpack in the limo Sunday. How can we get it back? It is urgent, please call me back as soon as possible. Please get back to me. - Ahmed",Lost Item,High,Lost Item-2
+E0517,"Hi, Lost my wallet during my trip to Mississauga, can you check with the driver? Please get back to me. - Noah",Lost Item,Normal,Lost Item-3
+E0518,"Hi, I really appreciated how patient the driver was with my kids. Regards. - Lina",Compliment,Normal,Compliment-6
+E0519,"Hi, I was charged twice for my trip from Terminal 3 6:30 this morning. Please refund the extra charge. Please get back to me. - Yusuf",Billing Issue,Normal,Billing Issue-0
+E0520,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Regards. - Lina",Booking Change,Normal,Booking Change-5
+E0521,"Hi, My driver was 15 minutes late picking me up at downtown Toronto. I almost missed my flight. I felt unsafe and I want someone to contact me right away. Regards. - Maya",Late Pickup,High,Late Pickup-0
+E0522,"My booking reference is in the confirmation email. Hi, Waited at Mississauga for over 40 minutes, the driver never called. Very disappointing. I felt unsafe and I want someone to contact me right away. - Sarah",Late Pickup,High,Late Pickup-2
+E0523,"Hi, My driver was on the phone the whole ride and was speeding on the highway. Thanks. - Julia",Driver Behaviour,High,Driver Behaviour-1
+E0524,"Hi, Can you explain the extra fee on my invoice? I paid $72 instead of $40. Regards. - Liam",Billing Issue,Normal,Billing Issue-3
+E0525,"Hi, I was charged twice for my trip from Square One around 11 pm. Please refund the extra charge. I will file a formal complaint if this is not fixed. Regards. - Grace",Billing Issue,High,Billing Issue-0
+E0526,"Hi, I really appreciated how patient the driver was with my kids. Thanks. - Yusuf",Compliment,Normal,Compliment-6
+E0527,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Thanks. - Daniel",Booking Change,Normal,Booking Change-2
+E0528,"I travel for work every week with your company. Hi, I booked a car for this morning but nobody showed up until 30 minutes later. I felt unsafe and I want someone to contact me right away. Thanks. - Rami",Late Pickup,High,Late Pickup-1
+E0529,"Hi, The pickup at Union Station was late again. This is the second time this month. - Noah",Late Pickup,Normal,Late Pickup-3
+E0530,"Hi, Our limo arrived 25 minutes after the scheduled time and we were late to the wedding. It is urgent, please call me back as soon as possible. Regards. - Mark",Late Pickup,High,Late Pickup-4
+E0531,"Hi, Can I switch my reservation to a bigger vehicle for Mississauga? Regards. - Liam",Booking Change,Normal,Booking Change-7
+E0532,"Hi, My driver was 25 minutes late picking me up at Mississauga. I almost missed my flight. Please get back to me. - Omar",Late Pickup,Normal,Late Pickup-0
+E0533,"Hi, I really appreciated how patient the driver was with my kids. Thanks. - Julia",Compliment,Normal,Compliment-6
+E0534,"Hi, Lost my wallet during my trip to Terminal 3, can you check with the driver? Thank you for your help. - Hassan",Lost Item,Normal,Lost Item-3
+E0535,"Hi, I would like to book a car for 6 people next Saturday from the hotel. Thank you for your help. - Yusuf",Booking Change,Normal,Booking Change-4
+E0536,"Hi, You promised the car at 5 am, it came way after. I lost an important meeting. I felt unsafe and I want someone to contact me right away. Thank you for your help. - Chen",Late Pickup,High,Late Pickup-6
+E0537,"Hi, The driver was rude to me and refused to help with my luggage at Pearson Airport. Thanks. - Omar",Driver Behaviour,Normal,Driver Behaviour-0
+E0538,"Hi, I paid cash but you still billed my card $150. I will file a formal complaint if this is not fixed. Thank you for your help. - Grace",Billing Issue,High,Billing Issue-6
+E0539,"I travel for work every week with your company. Hi, Can I change my pickup time tomorrow from yesterday afternoon to a later time? Thank you for your help. - Daniel",Booking Change,Normal,Booking Change-0
+E0540,"This was for a trip with my family. Hi, My keys must have fallen out in the car, I can't find them anywhere since Sunday. This is unacceptable and I want a refund immediately. Thank you for your help. - Priya",Lost Item,High,Lost Item-5
+E0541,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. - Fatima",Booking Change,Normal,Booking Change-5
+E0542,"Hi, My credit card shows a charge of $72 for a ride I never took. It is urgent, please call me back as soon as possible. Thanks. - Daniel",Billing Issue,High,Billing Issue-2
+E0543,"I'm a regular customer and usually book through the app. Hi, Something is off with my statement, there are two payments for one ride. Regards. - Omar",Billing Issue,Normal,Billing Issue-5
+E0544,"I travel for work every week with your company. Hi, Is it possible to add a stop at downtown Toronto on my booking? Thanks. - Priya",Booking Change,Normal,Booking Change-3
+E0545,"This was for a trip with my family. Hi, My driver was on the phone the whole ride and was speeding on the highway. Please get back to me. - Fatima",Driver Behaviour,High,Driver Behaviour-1
+E0546,"Hi, Nobody was there when I came out of arrivals at Terminal 1. I had to take another cab. - Carlos",Late Pickup,Normal,Late Pickup-5
+E0547,"Hi, Can I change my pickup time tomorrow from 5 am to a later time? Regards. - Rami",Booking Change,Normal,Booking Change-0
+E0548,"Hi, Great service Sunday, the car was clean and on time. I will book again. Regards. - Rami",Compliment,Normal,Compliment-1
+E0549,"Hi, My keys must have fallen out in the car, I can't find them anywhere since this morning. - Olivia",Lost Item,Normal,Lost Item-5
+E0550,"Hi, You promised the car at last night, it came way after. I lost an important meeting. I will file a formal complaint if this is not fixed. Regards. - Ahmed",Late Pickup,High,Late Pickup-6
+E0551,"This was for a trip with my family. Hi, The price on the app and the final price do not match at all. Thanks. - Julia",Billing Issue,Normal,Billing Issue-7
+E0552,"This was for a trip with my family. Hi, You promised the car at last night, it came way after. I lost an important meeting. This is unacceptable and I want a refund immediately. Please get back to me. - Hassan",Late Pickup,High,Late Pickup-6
+E0553,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. Thank you for your help. - Olivia",Compliment,Normal,Compliment-5
+E0554,"This was for a trip with my family. Hi, My keys must have fallen out in the car, I can't find them anywhere since yesterday afternoon. I need this resolved today. Thank you for your help. - Carlos",Lost Item,High,Lost Item-5
+E0555,"Hi, Is it possible to add a stop at the hotel on my booking? Thank you for your help. - Rami",Booking Change,Normal,Booking Change-3
+E0556,"Hi, Please move my airport ride one hour earlier. Thank you for your help. - Maya",Booking Change,Normal,Booking Change-6
+E0557,"I travel for work every week with your company. Hi, Very impolite driver, he did not even say hello and slammed the trunk. Regards. - Liam",Driver Behaviour,Normal,Driver Behaviour-7
+E0558,"Hi, My driver was on the phone the whole ride and was speeding on the highway. Regards. - Julia",Driver Behaviour,High,Driver Behaviour-1
+E0559,"Hi, The fare on my receipt is $89 but I was quoted $110. Why the difference? Thanks. - Grace",Billing Issue,Normal,Billing Issue-1
+E0560,"Hi, I would like to book a car for 6 people next Saturday from Mississauga. Regards. - Chen",Booking Change,Normal,Booking Change-4
+E0561,"Hi, I left my laptop bag in the car around 11 pm after a ride from Mississauga. Please help. This is unacceptable and I want a refund immediately. Thanks. - Daniel",Lost Item,High,Lost Item-0
+E0562,"Hi, Nobody was there when I came out of arrivals at Pearson Airport. I had to take another cab. Thank you for your help. - Sarah",Late Pickup,Normal,Late Pickup-5
+E0563,"My booking reference is in the confirmation email. Hi, Did any driver find a pair of glasses? I had them before the ride to Square One. Please get back to me. - Mark",Lost Item,Normal,Lost Item-7
+E0564,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. This is unacceptable and I want a refund immediately. Regards. - Daniel",Driver Behaviour,High,Driver Behaviour-5
+E0565,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Please get back to me. - Maya",Booking Change,Normal,Booking Change-2
+E0566,"Hi, Driver showed up so late that I had to rush through security. Not ok. I felt unsafe and I want someone to contact me right away. - Rami",Late Pickup,High,Late Pickup-7
+E0567,"Hi, Can you explain the extra fee on my invoice? I paid $48 instead of $95. - Rami",Billing Issue,Normal,Billing Issue-3
+E0568,"Hi, I booked a car for Friday evening but nobody showed up until 45 minutes later. I need this resolved today. Thanks. - Fatima",Late Pickup,High,Late Pickup-1
+E0569,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. - Yusuf",Driver Behaviour,Normal,Driver Behaviour-5
+E0570,"Hi, I paid cash but you still billed my card $72. Thank you for your help. - Chen",Billing Issue,Normal,Billing Issue-6
+E0571,"Hi, Can I change my pickup time tomorrow from 5 am to a later time? Please get back to me. - Chen",Booking Change,Normal,Booking Change-0
+E0572,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. - Omar",Compliment,Normal,Compliment-5
+E0573,"Hi, I booked a car for last night but nobody showed up until 30 minutes later. Please get back to me. - Fatima",Late Pickup,Normal,Late Pickup-1
+E0574,"Hi, The pickup at Terminal 1 was late again. This is the second time this month. Thanks. - Emma",Late Pickup,Normal,Late Pickup-3
+E0575,"Hi, The fare on my receipt is $65 but I was quoted $110. Why the difference? It is urgent, please call me back as soon as possible. Regards. - Priya",Billing Issue,High,Billing Issue-1
+E0576,"Hi, The fare on my receipt is $150 but I was quoted $40. Why the difference? I need this resolved today. - Rami",Billing Issue,High,Billing Issue-1
+E0577,"My booking reference is in the confirmation email. Hi, Waited at Pearson Airport for over 15 minutes, the driver never called. Very disappointing. Thanks. - Fatima",Late Pickup,Normal,Late Pickup-2
+E0578,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. This is unacceptable and I want a refund immediately. Thanks. - Emma",Booking Change,High,Booking Change-5
+E0579,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Thank you for your help. - Ahmed",Booking Change,Normal,Booking Change-2
+E0580,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. I need this resolved today. Please get back to me. - Maya",Booking Change,High,Booking Change-2
+E0581,"Hi, The pickup at Mississauga was late again. This is the second time this month. Regards. - Mark",Late Pickup,Normal,Late Pickup-3
+E0582,"Hi, I was charged twice for my trip from Terminal 3 this morning. Please refund the extra charge. I will file a formal complaint if this is not fixed. Thank you for your help. - Noah",Billing Issue,High,Billing Issue-0
+E0583,"Hi, You promised the car at 5 am, it came way after. I lost an important meeting. Thank you for your help. - Noah",Late Pickup,Normal,Late Pickup-6
+E0584,"Hi, Your team was very helpful when I changed my booking. Much appreciated. Thanks. - Olivia",Compliment,Normal,Compliment-3
+E0585,"I'm a regular customer and usually book through the app. Hi, I booked a car for this morning but nobody showed up until 60 minutes later. Thank you for your help. - Fatima",Late Pickup,Normal,Late Pickup-1
+E0586,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. - Mark",Booking Change,Normal,Booking Change-2
+E0587,"Hi, Waited at Terminal 3 for over 20 minutes, the driver never called. Very disappointing. Thank you for your help. - Carlos",Late Pickup,Normal,Late Pickup-2
+E0588,"Hi, Is it possible to add a stop at Pearson Airport on my booking? Thank you for your help. - Carlos",Booking Change,Normal,Booking Change-3
+E0589,"Hi, Nobody was there when I came out of arrivals at North York. I had to take another cab. Thank you for your help. - Maya",Late Pickup,Normal,Late Pickup-5
+E0590,"Hi, Something is off with my statement, there are two payments for one ride. - Omar",Billing Issue,Normal,Billing Issue-5
+E0591,"My booking reference is in the confirmation email. Hi, The pickup at downtown Toronto was late again. This is the second time this month. - Sarah",Late Pickup,Normal,Late Pickup-3
+E0592,"Hi, You promised the car at 6:30 this morning, it came way after. I lost an important meeting. Thanks. - Noah",Late Pickup,Normal,Late Pickup-6
+E0593,"Hi, I left my laptop bag in the car 5 am after a ride from downtown Toronto. Please help. Regards. - Chen",Lost Item,Normal,Lost Item-0
+E0594,"I'm a regular customer and usually book through the app. Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Please get back to me. - Yusuf",Booking Change,Normal,Booking Change-5
+E0595,"I travel for work every week with your company. Hi, The price on the app and the final price do not match at all. Thanks. - Olivia",Billing Issue,Normal,Billing Issue-7
+E0596,"I travel for work every week with your company. Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. Thank you for your help. - Rami",Lost Item,Normal,Lost Item-6
+E0597,"My booking reference is in the confirmation email. Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. Regards. - Olivia",Lost Item,Normal,Lost Item-6
+E0598,"Hi, The driver was rude to me and refused to help with my luggage at North York. Thanks. - Maya",Driver Behaviour,Normal,Driver Behaviour-0
+E0599,"Hi, I need a corrected receipt for my business trip, the amount is wrong. Regards. - Priya",Billing Issue,Normal,Billing Issue-4
+E0600,"Hi, I left my laptop bag in the car Friday evening after a ride from North York. Please help. Thanks. - Omar",Lost Item,Normal,Lost Item-0
+E0601,"Hi, Please move my airport ride one hour earlier. Thanks. - Julia",Booking Change,Normal,Booking Change-6
+E0602,"Hi, Very impolite driver, he did not even say hello and slammed the trunk. Thanks. - Ahmed",Driver Behaviour,Normal,Driver Behaviour-7
+E0603,"Hi, Can I switch my reservation to a bigger vehicle for Square One? Please get back to me. - Sarah",Booking Change,Normal,Booking Change-7
+E0604,"Hi, Very impolite driver, he did not even say hello and slammed the trunk. Thanks. - Chen",Driver Behaviour,Normal,Driver Behaviour-7
+E0605,"Hi, You promised the car at Friday evening, it came way after. I lost an important meeting. It is urgent, please call me back as soon as possible. Please get back to me. - Daniel",Late Pickup,High,Late Pickup-6
+E0606,"Hi, Driver showed up so late that I had to rush through security. Not ok. Thank you for your help. - Omar",Late Pickup,Normal,Late Pickup-7
+E0607,"Hi, I really appreciated how patient the driver was with my kids. - Rami",Compliment,Normal,Compliment-6
+E0608,"Hi, I left my laptop bag in the car 6:30 this morning after a ride from Union Station. Please help. This is unacceptable and I want a refund immediately. Thank you for your help. - Priya",Lost Item,High,Lost Item-0
+E0609,"Hi, Very impolite driver, he did not even say hello and slammed the trunk. - Daniel",Driver Behaviour,Normal,Driver Behaviour-7
+E0610,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. Please get back to me. - Emma",Driver Behaviour,Normal,Driver Behaviour-5
+E0611,"Hi, He kept texting while driving through North York, I was scared the whole time. I need this resolved today. Thank you for your help. - Chen",Driver Behaviour,High,Driver Behaviour-6
+E0612,"Hi, I paid cash but you still billed my card $150. Thanks. - Omar",Billing Issue,Normal,Billing Issue-6
+E0613,"Hi, Lost my wallet during my trip to my office, can you check with the driver? It is urgent, please call me back as soon as possible. Thanks. - Daniel",Lost Item,High,Lost Item-3
+E0614,"Hi, Our limo arrived 45 minutes after the scheduled time and we were late to the wedding. Thank you for your help. - Chen",Late Pickup,Normal,Late Pickup-4
+E0615,"Hi, Driver showed up so late that I had to rush through security. Not ok. This is unacceptable and I want a refund immediately. - Carlos",Late Pickup,High,Late Pickup-7
+E0616,"Hi, I would like to book a car for 6 people next Saturday from the hotel. Please get back to me. - Noah",Booking Change,Normal,Booking Change-4
+E0617,"Hi, Just wanted to say Yusuf, my driver, was excellent and very friendly. Thank you! - Lina",Compliment,Normal,Compliment-0
+E0618,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Thanks. - Chen",Booking Change,Normal,Booking Change-5
+E0619,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. - Chen",Compliment,Normal,Compliment-5
+E0620,"Hi, I need to cancel my booking for Friday to Pearson Airport. I felt unsafe and I want someone to contact me right away. Thanks. - Grace",Booking Change,High,Booking Change-1
+E0621,"Hi, Just wanted to say Noah, my driver, was excellent and very friendly. Thank you! - Grace",Compliment,Normal,Compliment-0
+E0622,"Hi, I booked a car for yesterday afternoon but nobody showed up until 40 minutes later. Regards. - Fatima",Late Pickup,Normal,Late Pickup-1
+E0623,"Hi, I need a corrected receipt for my business trip, the amount is wrong. Thanks. - Grace",Billing Issue,Normal,Billing Issue-4
+E0624,"Hi, I paid cash but you still billed my card $150. - Julia",Billing Issue,Normal,Billing Issue-6
+E0625,"Hi, The limo for our event was perfect. Everyone loved it. - Maya",Compliment,Normal,Compliment-4
+E0626,"Hi, The driver was rude to me and refused to help with my luggage at Square One. I need this resolved today. Regards. - Hassan",Driver Behaviour,High,Driver Behaviour-0
+E0627,"Hi, Can I change my pickup time tomorrow from Friday evening to a later time? Regards. - Mark",Booking Change,Normal,Booking Change-0
+E0628,"Hi, The fare on my receipt is $150 but I was quoted $55. Why the difference? It is urgent, please call me back as soon as possible. Thank you for your help. - Emma",Billing Issue,High,Billing Issue-1
+E0629,"I'm a regular customer and usually book through the app. Hi, Is it possible to add a stop at North York on my booking? Thanks. - Daniel",Booking Change,Normal,Booking Change-3
+E0630,"Hi, The driver took a much longer route from Pearson Airport and argued when I asked about it. I felt unsafe and I want someone to contact me right away. Please get back to me. - Yusuf",Driver Behaviour,High,Driver Behaviour-4
+E0631,"My booking reference is in the confirmation email. Hi, I think I forgot my phone in the back seat of the taxi from the hotel. - Hassan",Lost Item,Normal,Lost Item-1
+E0632,"I travel for work every week with your company. Hi, I would like to book a car for 6 people next Saturday from Terminal 1. Thank you for your help. - Chen",Booking Change,Normal,Booking Change-4
+E0633,"Hi, Can I change my pickup time tomorrow from last night to a later time? Thanks. - Julia",Booking Change,Normal,Booking Change-0
+E0634,"Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. I need this resolved today. Thanks. - Daniel",Lost Item,High,Lost Item-6
+E0635,"This was for a trip with my family. Hi, The pickup at Pearson Airport was late again. This is the second time this month. I will file a formal complaint if this is not fixed. - Maya",Late Pickup,High,Late Pickup-3
+E0636,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. - Liam",Compliment,Normal,Compliment-5
+E0637,"Hi, My driver was on the phone the whole ride and was speeding on the highway. I felt unsafe and I want someone to contact me right away. Thank you for your help. - Julia",Driver Behaviour,High,Driver Behaviour-1
+E0638,"Hi, Is it possible to add a stop at Terminal 3 on my booking? - Lina",Booking Change,Normal,Booking Change-3
+E0639,"Hi, I booked a car for last night but nobody showed up until 40 minutes later. I need this resolved today. Thank you for your help. - Yusuf",Late Pickup,High,Late Pickup-1
+E0640,"Hi, I need to cancel my booking for Friday to Terminal 1. - Fatima",Booking Change,Normal,Booking Change-1
+E0641,"Hi, Please move my airport ride one hour earlier. Thank you for your help. - Grace",Booking Change,Normal,Booking Change-6
+E0642,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. - Grace",Booking Change,Normal,Booking Change-2
+E0643,"Hi, I think I forgot my phone in the back seat of the taxi from downtown Toronto. Thanks. - Hassan",Lost Item,Normal,Lost Item-1
+E0644,"Hi, Is it possible to add a stop at the hotel on my booking? Thanks. - Julia",Booking Change,Normal,Booking Change-3
+E0645,"Hi, Please move my airport ride one hour earlier. Thanks. - Julia",Booking Change,Normal,Booking Change-6
+E0646,"Hi, The pickup at the hotel was late again. This is the second time this month. Please get back to me. - Sarah",Late Pickup,Normal,Late Pickup-3
+E0647,"Hi, The pickup at Mississauga was late again. This is the second time this month. Thank you for your help. - Sarah",Late Pickup,Normal,Late Pickup-3
+E0648,"Hi, Best airport transfer I've had in years, thank you Sarah. Thanks. - Hassan",Compliment,Normal,Compliment-7
+E0649,"Hi, I really appreciated how patient the driver was with my kids. Regards. - Rami",Compliment,Normal,Compliment-6
+E0650,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. I will file a formal complaint if this is not fixed. Thank you for your help. - Hassan",Driver Behaviour,High,Driver Behaviour-5
+E0651,"Hi, I think I forgot my phone in the back seat of the taxi from North York. Thank you for your help. - Grace",Lost Item,Normal,Lost Item-1
+E0652,"Hi, Is it possible to add a stop at the hotel on my booking? - Olivia",Booking Change,Normal,Booking Change-3
+E0653,"Hi, My keys must have fallen out in the car, I can't find them anywhere since around 11 pm. Regards. - Sarah",Lost Item,Normal,Lost Item-5
+E0654,"This was for a trip with my family. Hi, I would like to book a car for 6 people next Saturday from Pearson Airport. Thank you for your help. - Rami",Booking Change,Normal,Booking Change-4
+E0655,"Hi, Can I switch my reservation to a bigger vehicle for Terminal 1? This is unacceptable and I want a refund immediately. Thank you for your help. - Yusuf",Booking Change,High,Booking Change-7
+E0656,"Hi, I paid cash but you still billed my card $89. This is unacceptable and I want a refund immediately. Thank you for your help. - Rami",Billing Issue,High,Billing Issue-6
+E0657,"Hi, Please move my airport ride one hour earlier. This is unacceptable and I want a refund immediately. Regards. - Julia",Booking Change,High,Booking Change-6
+E0658,"Hi, Best airport transfer I've had in years, thank you Olivia. - Fatima",Compliment,Normal,Compliment-7
+E0659,"Hi, The driver smelled of smoke and was very unprofessional. Regards. - Julia",Driver Behaviour,Normal,Driver Behaviour-3
+E0660,"Hi, I booked a car for yesterday afternoon but nobody showed up until 45 minutes later. This is unacceptable and I want a refund immediately. Please get back to me. - Fatima",Late Pickup,High,Late Pickup-1
+E0661,"Hi, Great service around 11 pm, the car was clean and on time. I will book again. Please get back to me. - Emma",Compliment,Normal,Compliment-1
+E0662,"Hi, He kept texting while driving through my office, I was scared the whole time. I need this resolved today. Thanks. - Emma",Driver Behaviour,High,Driver Behaviour-6
+E0663,"Hi, You promised the car at Sunday, it came way after. I lost an important meeting. Thanks. - Mark",Late Pickup,Normal,Late Pickup-6
+E0664,"Hi, Please move my airport ride one hour earlier. Thank you for your help. - Sarah",Booking Change,Normal,Booking Change-6
+E0665,"Hi, I need to cancel my booking for Friday to Pearson Airport. Thanks. - Mark",Booking Change,Normal,Booking Change-1
+E0666,"I travel for work every week with your company. Hi, I booked a car for Friday evening but nobody showed up until 15 minutes later. Thanks. - Yusuf",Late Pickup,Normal,Late Pickup-1
+E0667,"Hi, Can I switch my reservation to a bigger vehicle for my office? - Hassan",Booking Change,Normal,Booking Change-7
+E0668,"Hi, My driver was 20 minutes late picking me up at Union Station. I almost missed my flight. This is unacceptable and I want a refund immediately. - Sarah",Late Pickup,High,Late Pickup-0
+E0669,"Hi, The limo for our event was perfect. Everyone loved it. Thank you for your help. - Mark",Compliment,Normal,Compliment-4
+E0670,"Hi, The price on the app and the final price do not match at all. It is urgent, please call me back as soon as possible. Thank you for your help. - Lina",Billing Issue,High,Billing Issue-7
+E0671,"Hi, I booked a car for Friday evening but nobody showed up until 45 minutes later. - Sarah",Late Pickup,Normal,Late Pickup-1
+E0672,"Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. I felt unsafe and I want someone to contact me right away. Regards. - Hassan",Lost Item,High,Lost Item-6
+E0673,"Hi, My daughter left her backpack in the limo this morning. How can we get it back? - Mark",Lost Item,Normal,Lost Item-2
+E0674,"Hi, Did any driver find a pair of glasses? I had them before the ride to Mississauga. - Lina",Lost Item,Normal,Lost Item-7
+E0675,"My booking reference is in the confirmation email. Hi, Is it possible to add a stop at downtown Toronto on my booking? Please get back to me. - Rami",Booking Change,Normal,Booking Change-3
+E0676,"Hi, I was charged twice for my trip from Mississauga around 11 pm. Please refund the extra charge. Thank you for your help. - Yusuf",Billing Issue,Normal,Billing Issue-0
+E0677,"Hi, You promised the car at yesterday afternoon, it came way after. I lost an important meeting. Thanks. - Ahmed",Late Pickup,Normal,Late Pickup-6
+E0678,"Hi, My driver was on the phone the whole ride and was speeding on the highway. I need this resolved today. Please get back to me. - Ahmed",Driver Behaviour,High,Driver Behaviour-1
+E0679,"Hi, I booked a car for 6:30 this morning but nobody showed up until 45 minutes later. This is unacceptable and I want a refund immediately. Regards. - Omar",Late Pickup,High,Late Pickup-1
+E0680,"Hi, The limo for our event was perfect. Everyone loved it. Please get back to me. - Mark",Compliment,Normal,Compliment-4
+E0681,"Hi, I left a black suitcase in the trunk Sunday. It has important documents. Thanks. - Maya",Lost Item,Normal,Lost Item-4
+E0682,"This was for a trip with my family. Hi, Waited at Terminal 1 for over 30 minutes, the driver never called. Very disappointing. I felt unsafe and I want someone to contact me right away. - Carlos",Late Pickup,High,Late Pickup-2
+E0683,"Hi, Best airport transfer I've had in years, thank you Grace. Regards. - Julia",Compliment,Normal,Compliment-7
+E0684,"Hi, Please move my airport ride one hour earlier. Please get back to me. - Sarah",Booking Change,Normal,Booking Change-6
+E0685,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. I will file a formal complaint if this is not fixed. Please get back to me. - Grace",Booking Change,High,Booking Change-5
+E0686,"Hi, The price on the app and the final price do not match at all. - Mark",Billing Issue,Normal,Billing Issue-7
+E0687,"Hi, Great service yesterday afternoon, the car was clean and on time. I will book again. Please get back to me. - Grace",Compliment,Normal,Compliment-1
+E0688,"Hi, The pickup at the hotel was late again. This is the second time this month. Thanks. - Grace",Late Pickup,Normal,Late Pickup-3
+E0689,"Hi, Best airport transfer I've had in years, thank you Daniel. Thank you for your help. - Emma",Compliment,Normal,Compliment-7
+E0690,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Thanks. - Daniel",Booking Change,Normal,Booking Change-2
+E0691,"Hi, The fare on my receipt is $72 but I was quoted $55. Why the difference? - Olivia",Billing Issue,Normal,Billing Issue-1
+E0692,"Hi, Can I change my pickup time tomorrow from Friday evening to a later time? I felt unsafe and I want someone to contact me right away. Please get back to me. - Hassan",Booking Change,High,Booking Change-0
+E0693,"Hi, Please move my airport ride one hour earlier. Regards. - Yusuf",Booking Change,Normal,Booking Change-6
+E0694,"Hi, I think I forgot my phone in the back seat of the taxi from Terminal 3. Thanks. - Carlos",Lost Item,Normal,Lost Item-1
+E0695,"Hi, My driver was on the phone the whole ride and was speeding on the highway. Thank you for your help. - Olivia",Driver Behaviour,High,Driver Behaviour-1
+E0696,"Hi, The fare on my receipt is $89 but I was quoted $110. Why the difference? Please get back to me. - Daniel",Billing Issue,Normal,Billing Issue-1
+E0697,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Regards. - Sarah",Booking Change,Normal,Booking Change-2
+E0698,"Hi, Best airport transfer I've had in years, thank you Fatima. Please get back to me. - Rami",Compliment,Normal,Compliment-7
+E0699,"My booking reference is in the confirmation email. Hi, Driver showed up so late that I had to rush through security. Not ok. - Fatima",Late Pickup,Normal,Late Pickup-7
+E0700,"Hi, You promised the car at yesterday afternoon, it came way after. I lost an important meeting. Regards. - Julia",Late Pickup,Normal,Late Pickup-6
+E0701,"I travel for work every week with your company. Hi, I need to cancel my booking for Friday to Union Station. - Priya",Booking Change,Normal,Booking Change-1
+E0702,"Hi, Waited at downtown Toronto for over 30 minutes, the driver never called. Very disappointing. I will file a formal complaint if this is not fixed. Thank you for your help. - Julia",Late Pickup,High,Late Pickup-2
+E0703,"Hi, The driver smelled of smoke and was very unprofessional. I need this resolved today. Regards. - Chen",Driver Behaviour,High,Driver Behaviour-3
+E0704,"Hi, Please move my airport ride one hour earlier. Please get back to me. - Olivia",Booking Change,Normal,Booking Change-6
+E0705,"Hi, Very impolite driver, he did not even say hello and slammed the trunk. It is urgent, please call me back as soon as possible. Thanks. - Grace",Driver Behaviour,High,Driver Behaviour-7
+E0706,"Hi, The driver was rude to me and refused to help with my luggage at Union Station. I will file a formal complaint if this is not fixed. Regards. - Daniel",Driver Behaviour,High,Driver Behaviour-0
+E0707,"Hi, Please move my airport ride one hour earlier. Thank you for your help. - Noah",Booking Change,Normal,Booking Change-6
+E0708,"Hi, I paid cash but you still billed my card $48. I will file a formal complaint if this is not fixed. Regards. - Emma",Billing Issue,High,Billing Issue-6
+E0709,"This was for a trip with my family. Hi, My driver was on the phone the whole ride and was speeding on the highway. It is urgent, please call me back as soon as possible. Thank you for your help. - Grace",Driver Behaviour,High,Driver Behaviour-1
+E0710,"My booking reference is in the confirmation email. Hi, I need to cancel my booking for Friday to Pearson Airport. - Olivia",Booking Change,Normal,Booking Change-1
+E0711,"Hi, Can I change my pickup time tomorrow from 5 am to a later time? Please get back to me. - Lina",Booking Change,Normal,Booking Change-0
+E0712,"Hi, My keys must have fallen out in the car, I can't find them anywhere since Sunday. Regards. - Fatima",Lost Item,Normal,Lost Item-5
+E0713,"Hi, Did any driver find a pair of glasses? I had them before the ride to Mississauga. - Carlos",Lost Item,Normal,Lost Item-7
+E0714,"Hi, I paid cash but you still billed my card $48. Thanks. - Priya",Billing Issue,Normal,Billing Issue-6
+E0715,"Hi, Just wanted to say Hassan, my driver, was excellent and very friendly. Thank you! Thank you for your help. - Daniel",Compliment,Normal,Compliment-0
+E0716,"Hi, Driver showed up so late that I had to rush through security. Not ok. It is urgent, please call me back as soon as possible. Please get back to me. - Lina",Late Pickup,High,Late Pickup-7
+E0717,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. - Sarah",Compliment,Normal,Compliment-5
+E0718,"Hi, Best airport transfer I've had in years, thank you Ahmed. - Priya",Compliment,Normal,Compliment-7
+E0719,"Hi, I felt unsafe, the driver was driving aggressively last night. I felt unsafe and I want someone to contact me right away. Thanks. - Liam",Driver Behaviour,High,Driver Behaviour-2
+E0720,"Hi, Waited at downtown Toronto for over 45 minutes, the driver never called. Very disappointing. Thanks. - Omar",Late Pickup,Normal,Late Pickup-2
+E0721,"Hi, Great service this morning, the car was clean and on time. I will book again. Thanks. - Fatima",Compliment,Normal,Compliment-1
+E0722,"Hi, The limo for our event was perfect. Everyone loved it. - Hassan",Compliment,Normal,Compliment-4
+E0723,"I travel for work every week with your company. Hi, Great service this morning, the car was clean and on time. I will book again. - Mark",Compliment,Normal,Compliment-1
+E0724,"Hi, Our limo arrived 15 minutes after the scheduled time and we were late to the wedding. It is urgent, please call me back as soon as possible. Please get back to me. - Priya",Late Pickup,High,Late Pickup-4
+E0725,"Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. Thank you for your help. - Yusuf",Lost Item,Normal,Lost Item-6
+E0726,"Hi, Is it possible to add a stop at Mississauga on my booking? - Lina",Booking Change,Normal,Booking Change-3
+E0727,"Hi, Lost my wallet during my trip to Pearson Airport, can you check with the driver? Regards. - Julia",Lost Item,Normal,Lost Item-3
+E0728,"Hi, Our limo arrived 15 minutes after the scheduled time and we were late to the wedding. I need this resolved today. Please get back to me. - Emma",Late Pickup,High,Late Pickup-4
+E0729,"Hi, The pickup at North York was late again. This is the second time this month. Please get back to me. - Sarah",Late Pickup,Normal,Late Pickup-3
+E0730,"Hi, Please move my airport ride one hour earlier. Please get back to me. - Sarah",Booking Change,Normal,Booking Change-6
+E0731,"Hi, Driver showed up so late that I had to rush through security. Not ok. I will file a formal complaint if this is not fixed. Thank you for your help. - Liam",Late Pickup,High,Late Pickup-7
+E0732,"Hi, Did any driver find a pair of glasses? I had them before the ride to Pearson Airport. Thank you for your help. - Priya",Lost Item,Normal,Lost Item-7
+E0733,"My booking reference is in the confirmation email. Hi, I booked a car for this morning but nobody showed up until 40 minutes later. - Hassan",Late Pickup,Normal,Late Pickup-1
+E0734,"Hi, The pickup at North York was late again. This is the second time this month. - Rami",Late Pickup,Normal,Late Pickup-3
+E0735,"I travel for work every week with your company. Hi, I left a black suitcase in the trunk last night. It has important documents. I need this resolved today. Regards. - Rami",Lost Item,High,Lost Item-4
+E0736,"Hi, The fare on my receipt is $48 but I was quoted $75. Why the difference? Thank you for your help. - Ahmed",Billing Issue,Normal,Billing Issue-1
+E0737,"Hi, I was charged twice for my trip from Pearson Airport Sunday. Please refund the extra charge. This is unacceptable and I want a refund immediately. Thanks. - Lina",Billing Issue,High,Billing Issue-0
+E0738,"Hi, Thank you for getting me to North York so quickly. Amazing driver. Thank you for your help. - Rami",Compliment,Normal,Compliment-2
+E0739,"I travel for work every week with your company. Hi, Great service yesterday afternoon, the car was clean and on time. I will book again. - Rami",Compliment,Normal,Compliment-1
+E0740,"Hi, I think I forgot my phone in the back seat of the taxi from downtown Toronto. Please get back to me. - Priya",Lost Item,Normal,Lost Item-1
+E0741,"I travel for work every week with your company. Hi, Great service around 11 pm, the car was clean and on time. I will book again. Regards. - Yusuf",Compliment,Normal,Compliment-1
+E0742,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Thank you for your help. - Ahmed",Booking Change,Normal,Booking Change-2
+E0743,"Hi, The driver was rude to me and refused to help with my luggage at the hotel. Please get back to me. - Yusuf",Driver Behaviour,Normal,Driver Behaviour-0
+E0744,"Hi, The pickup at Terminal 3 was late again. This is the second time this month. It is urgent, please call me back as soon as possible. Thank you for your help. - Maya",Late Pickup,High,Late Pickup-3
+E0745,"Hi, Our limo arrived 15 minutes after the scheduled time and we were late to the wedding. Thank you for your help. - Grace",Late Pickup,Normal,Late Pickup-4
+E0746,"This was for a trip with my family. Hi, Lost my wallet during my trip to Pearson Airport, can you check with the driver? This is unacceptable and I want a refund immediately. Please get back to me. - Daniel",Lost Item,High,Lost Item-3
+E0747,"Hi, Thank you for getting me to Mississauga so quickly. Amazing driver. Thanks. - Noah",Compliment,Normal,Compliment-2
+E0748,"Hi, Did any driver find a pair of glasses? I had them before the ride to Union Station. Please get back to me. - Chen",Lost Item,Normal,Lost Item-7
+E0749,"Hi, I paid cash but you still billed my card $89. Thank you for your help. - Olivia",Billing Issue,Normal,Billing Issue-6
+E0750,"Hi, My keys must have fallen out in the car, I can't find them anywhere since around 11 pm. - Fatima",Lost Item,Normal,Lost Item-5
+E0751,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Please get back to me. - Maya",Booking Change,Normal,Booking Change-5
+E0752,"Hi, The limo for our event was perfect. Everyone loved it. Regards. - Julia",Compliment,Normal,Compliment-4
+E0753,"Hi, Can I switch my reservation to a bigger vehicle for Union Station? Thank you for your help. - Noah",Booking Change,Normal,Booking Change-7
+E0754,"Hi, Waited at Mississauga for over 15 minutes, the driver never called. Very disappointing. Thanks. - Daniel",Late Pickup,Normal,Late Pickup-2
+E0755,"Hi, I would like to book a car for 6 people next Saturday from Terminal 3. I need this resolved today. Thank you for your help. - Ahmed",Booking Change,High,Booking Change-4
+E0756,"This was for a trip with my family. Hi, The driver smelled of smoke and was very unprofessional. I will file a formal complaint if this is not fixed. Please get back to me. - Sarah",Driver Behaviour,High,Driver Behaviour-3
+E0757,"Hi, Can I switch my reservation to a bigger vehicle for downtown Toronto? I felt unsafe and I want someone to contact me right away. - Mark",Booking Change,High,Booking Change-7
+E0758,"Hi, I was charged twice for my trip from downtown Toronto 5 am. Please refund the extra charge. Thank you for your help. - Carlos",Billing Issue,Normal,Billing Issue-0
+E0759,"Hi, I need a corrected receipt for my business trip, the amount is wrong. Regards. - Yusuf",Billing Issue,Normal,Billing Issue-4
+E0760,"Hi, The limo for our event was perfect. Everyone loved it. Thanks. - Julia",Compliment,Normal,Compliment-4
+E0761,"Hi, Great service Sunday, the car was clean and on time. I will book again. Please get back to me. - Ahmed",Compliment,Normal,Compliment-1
+E0762,"Hi, The fare on my receipt is $89 but I was quoted $75. Why the difference? Thanks. - Sarah",Billing Issue,Normal,Billing Issue-1
+E0763,"Hi, The driver smelled of smoke and was very unprofessional. - Fatima",Driver Behaviour,Normal,Driver Behaviour-3
+E0764,"Hi, My driver was 60 minutes late picking me up at Pearson Airport. I almost missed my flight. I need this resolved today. Regards. - Sarah",Late Pickup,High,Late Pickup-0
+E0765,"Hi, My keys must have fallen out in the car, I can't find them anywhere since 6:30 this morning. Thanks. - Daniel",Lost Item,Normal,Lost Item-5
+E0766,"Hi, Thank you for getting me to North York so quickly. Amazing driver. - Carlos",Compliment,Normal,Compliment-2
+E0767,"Hi, I booked a car for around 11 pm but nobody showed up until 15 minutes later. Thank you for your help. - Priya",Late Pickup,Normal,Late Pickup-1
+E0768,"Hi, I was charged twice for my trip from Mississauga yesterday afternoon. Please refund the extra charge. I felt unsafe and I want someone to contact me right away. Thank you for your help. - Omar",Billing Issue,High,Billing Issue-0
+E0769,"Hi, I was charged twice for my trip from downtown Toronto Friday evening. Please refund the extra charge. - Noah",Billing Issue,Normal,Billing Issue-0
+E0770,"Hi, My driver was 15 minutes late picking me up at the hotel. I almost missed my flight. Please get back to me. - Grace",Late Pickup,Normal,Late Pickup-0
+E0771,"Hi, My credit card shows a charge of $150 for a ride I never took. Please get back to me. - Ahmed",Billing Issue,Normal,Billing Issue-2
+E0772,"Hi, Something is off with my statement, there are two payments for one ride. Thank you for your help. - Noah",Billing Issue,Normal,Billing Issue-5
+E0773,"Hi, I need a corrected receipt for my business trip, the amount is wrong. Regards. - Hassan",Billing Issue,Normal,Billing Issue-4
+E0774,"Hi, My driver was on the phone the whole ride and was speeding on the highway. - Lina",Driver Behaviour,High,Driver Behaviour-1
+E0775,"Hi, Can I switch my reservation to a bigger vehicle for Union Station? Thanks. - Hassan",Booking Change,Normal,Booking Change-7
+E0776,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Please get back to me. - Daniel",Booking Change,Normal,Booking Change-5
+E0777,"My booking reference is in the confirmation email. Hi, I need to cancel my booking for Friday to my office. Thanks. - Carlos",Booking Change,Normal,Booking Change-1
+E0778,"Hi, I really appreciated how patient the driver was with my kids. Thanks. - Omar",Compliment,Normal,Compliment-6
+E0779,"Hi, My daughter left her backpack in the limo around 11 pm. How can we get it back? I felt unsafe and I want someone to contact me right away. - Carlos",Lost Item,High,Lost Item-2
+E0780,"Hi, I booked a car for around 11 pm but nobody showed up until 20 minutes later. I will file a formal complaint if this is not fixed. Thank you for your help. - Chen",Late Pickup,High,Late Pickup-1
+E0781,"Hi, Can you explain the extra fee on my invoice? I paid $150 instead of $55. - Hassan",Billing Issue,Normal,Billing Issue-3
+E0782,"Hi, Lost my wallet during my trip to Pearson Airport, can you check with the driver? Thanks. - Omar",Lost Item,Normal,Lost Item-3
+E0783,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Thanks. - Chen",Booking Change,Normal,Booking Change-5
+E0784,"Hi, Please move my airport ride one hour earlier. It is urgent, please call me back as soon as possible. Please get back to me. - Sarah",Booking Change,High,Booking Change-6
+E0785,"Hi, The price on the app and the final price do not match at all. It is urgent, please call me back as soon as possible. Thanks. - Noah",Billing Issue,High,Billing Issue-7
+E0786,"This was for a trip with my family. Hi, I booked a car for this morning but nobody showed up until 45 minutes later. It is urgent, please call me back as soon as possible. - Sarah",Late Pickup,High,Late Pickup-1
+E0787,"Hi, Very impolite driver, he did not even say hello and slammed the trunk. This is unacceptable and I want a refund immediately. Regards. - Mark",Driver Behaviour,High,Driver Behaviour-7
+E0788,"Hi, I need to cancel my booking for Friday to Pearson Airport. Thank you for your help. - Maya",Booking Change,Normal,Booking Change-1
+E0789,"Hi, I was charged twice for my trip from Terminal 1 this morning. Please refund the extra charge. Thank you for your help. - Priya",Billing Issue,Normal,Billing Issue-0
+E0790,"Hi, Can I change my pickup time tomorrow from around 11 pm to a later time? Thanks. - Lina",Booking Change,Normal,Booking Change-0
+E0791,"Hi, Our limo arrived 30 minutes after the scheduled time and we were late to the wedding. Thank you for your help. - Yusuf",Late Pickup,Normal,Late Pickup-4
+E0792,"Hi, Please move my airport ride one hour earlier. Please get back to me. - Rami",Booking Change,Normal,Booking Change-6
+E0793,"My booking reference is in the confirmation email. Hi, Can I change my pickup time tomorrow from last night to a later time? - Mark",Booking Change,Normal,Booking Change-0
+E0794,"Hi, My driver was on the phone the whole ride and was speeding on the highway. Regards. - Lina",Driver Behaviour,High,Driver Behaviour-1
+E0795,"Hi, I paid cash but you still billed my card $89. I need this resolved today. Thank you for your help. - Hassan",Billing Issue,High,Billing Issue-6
+E0796,"Hi, My driver was on the phone the whole ride and was speeding on the highway. Thank you for your help. - Liam",Driver Behaviour,High,Driver Behaviour-1
+E0797,"I'm a regular customer and usually book through the app. Hi, I paid cash but you still billed my card $120. This is unacceptable and I want a refund immediately. Thanks. - Yusuf",Billing Issue,High,Billing Issue-6
+E0798,"My booking reference is in the confirmation email. Hi, Can I change my pickup time tomorrow from this morning to a later time? Regards. - Liam",Booking Change,Normal,Booking Change-0
+E0799,"Hi, My driver was 40 minutes late picking me up at Terminal 1. I almost missed my flight. It is urgent, please call me back as soon as possible. Please get back to me. - Priya",Late Pickup,High,Late Pickup-0
+E0800,"My booking reference is in the confirmation email. Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. I need this resolved today. Thank you for your help. - Ahmed",Booking Change,High,Booking Change-5
+E0801,"Hi, Is it possible to add a stop at downtown Toronto on my booking? I will file a formal complaint if this is not fixed. Thank you for your help. - Mark",Booking Change,High,Booking Change-3
+E0802,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. Thank you for your help. - Fatima",Compliment,Normal,Compliment-5
+E0803,"Hi, Can I switch my reservation to a bigger vehicle for the hotel? Regards. - Ahmed",Booking Change,Normal,Booking Change-7
+E0804,"Hi, Driver showed up so late that I had to rush through security. Not ok. I felt unsafe and I want someone to contact me right away. Thanks. - Lina",Late Pickup,High,Late Pickup-7
+E0805,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. It is urgent, please call me back as soon as possible. Please get back to me. - Grace",Booking Change,High,Booking Change-5
+E0806,"Hi, The driver smelled of smoke and was very unprofessional. Regards. - Yusuf",Driver Behaviour,Normal,Driver Behaviour-3
+E0807,"This was for a trip with my family. Hi, Waited at Square One for over 45 minutes, the driver never called. Very disappointing. Please get back to me. - Rami",Late Pickup,Normal,Late Pickup-2
+E0808,"I'm a regular customer and usually book through the app. Hi, I think I forgot my phone in the back seat of the taxi from Square One. This is unacceptable and I want a refund immediately. Regards. - Chen",Lost Item,High,Lost Item-1
+E0809,"Hi, Great service yesterday afternoon, the car was clean and on time. I will book again. Please get back to me. - Daniel",Compliment,Normal,Compliment-1
+E0810,"Hi, Can I switch my reservation to a bigger vehicle for Union Station? I felt unsafe and I want someone to contact me right away. Thank you for your help. - Ahmed",Booking Change,High,Booking Change-7
+E0811,"Hi, I felt unsafe, the driver was driving aggressively around 11 pm. Thanks. - Chen",Driver Behaviour,High,Driver Behaviour-2
+E0812,"This was for a trip with my family. Hi, Our limo arrived 20 minutes after the scheduled time and we were late to the wedding. - Hassan",Late Pickup,Normal,Late Pickup-4
+E0813,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. - Hassan",Compliment,Normal,Compliment-5
+E0814,"Hi, He kept texting while driving through the hotel, I was scared the whole time. - Noah",Driver Behaviour,Normal,Driver Behaviour-6
+E0815,"Hi, I would like to book a car for 6 people next Saturday from Pearson Airport. Please get back to me. - Julia",Booking Change,Normal,Booking Change-4
+E0816,"Hi, My driver was 30 minutes late picking me up at North York. I almost missed my flight. I felt unsafe and I want someone to contact me right away. Regards. - Yusuf",Late Pickup,High,Late Pickup-0
+E0817,"Hi, The price on the app and the final price do not match at all. This is unacceptable and I want a refund immediately. Please get back to me. - Liam",Billing Issue,High,Billing Issue-7
+E0818,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Regards. - Liam",Booking Change,Normal,Booking Change-2
+E0819,"Hi, My keys must have fallen out in the car, I can't find them anywhere since yesterday afternoon. I will file a formal complaint if this is not fixed. Thanks. - Sarah",Lost Item,High,Lost Item-5
+E0820,"Hi, My driver was on the phone the whole ride and was speeding on the highway. Thanks. - Emma",Driver Behaviour,High,Driver Behaviour-1
+E0821,"I'm a regular customer and usually book through the app. Hi, You promised the car at Friday evening, it came way after. I lost an important meeting. Please get back to me. - Daniel",Late Pickup,Normal,Late Pickup-6
+E0822,"Hi, I booked a car for 5 am but nobody showed up until 20 minutes later. Thank you for your help. - Maya",Late Pickup,Normal,Late Pickup-1
+E0823,"Hi, Is it possible to add a stop at downtown Toronto on my booking? Thanks. - Ahmed",Booking Change,Normal,Booking Change-3
+E0824,"Hi, Please move my airport ride one hour earlier. - Olivia",Booking Change,Normal,Booking Change-6
+E0825,"Hi, Waited at Union Station for over 15 minutes, the driver never called. Very disappointing. I need this resolved today. Thank you for your help. - Yusuf",Late Pickup,High,Late Pickup-2
+E0826,"Hi, The fare on my receipt is $48 but I was quoted $40. Why the difference? I need this resolved today. Regards. - Emma",Billing Issue,High,Billing Issue-1
+E0827,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. Please get back to me. - Emma",Driver Behaviour,Normal,Driver Behaviour-5
+E0828,"Hi, Your team was very helpful when I changed my booking. Much appreciated. Thanks. - Omar",Compliment,Normal,Compliment-3
+E0829,"Hi, My driver was on the phone the whole ride and was speeding on the highway. This is unacceptable and I want a refund immediately. Thank you for your help. - Mark",Driver Behaviour,High,Driver Behaviour-1
+E0830,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. Thanks. - Sarah",Compliment,Normal,Compliment-5
+E0831,"Hi, Waited at Terminal 1 for over 45 minutes, the driver never called. Very disappointing. I felt unsafe and I want someone to contact me right away. Thanks. - Daniel",Late Pickup,High,Late Pickup-2
+E0832,"Hi, I paid cash but you still billed my card $65. I will file a formal complaint if this is not fixed. Thank you for your help. - Fatima",Billing Issue,High,Billing Issue-6
+E0833,"Hi, The fare on my receipt is $150 but I was quoted $60. Why the difference? It is urgent, please call me back as soon as possible. - Ahmed",Billing Issue,High,Billing Issue-1
+E0834,"Hi, He kept texting while driving through Square One, I was scared the whole time. Regards. - Maya",Driver Behaviour,Normal,Driver Behaviour-6
+E0835,"This was for a trip with my family. Hi, Our limo arrived 20 minutes after the scheduled time and we were late to the wedding. Thanks. - Sarah",Late Pickup,Normal,Late Pickup-4
+E0836,"Hi, I need a corrected receipt for my business trip, the amount is wrong. Please get back to me. - Olivia",Billing Issue,Normal,Billing Issue-4
+E0837,"Hi, Best airport transfer I've had in years, thank you Liam. Thanks. - Hassan",Compliment,Normal,Compliment-7
+E0838,"Hi, Can I change my pickup time tomorrow from 5 am to a later time? - Priya",Booking Change,Normal,Booking Change-0
+E0839,"Hi, Waited at downtown Toronto for over 45 minutes, the driver never called. Very disappointing. - Emma",Late Pickup,Normal,Late Pickup-2
+E0840,"Hi, I would like to book a car for 6 people next Saturday from downtown Toronto. Please get back to me. - Liam",Booking Change,Normal,Booking Change-4
+E0841,"Hi, Lost my wallet during my trip to my office, can you check with the driver? - Grace",Lost Item,Normal,Lost Item-3
+E0842,"Hi, Can you explain the extra fee on my invoice? I paid $72 instead of $60. This is unacceptable and I want a refund immediately. Thank you for your help. - Fatima",Billing Issue,High,Billing Issue-3
+E0843,"Hi, Our limo arrived 30 minutes after the scheduled time and we were late to the wedding. Regards. - Fatima",Late Pickup,Normal,Late Pickup-4
+E0844,"Hi, My daughter left her backpack in the limo this morning. How can we get it back? - Maya",Lost Item,Normal,Lost Item-2
+E0845,"Hi, My driver was 30 minutes late picking me up at Pearson Airport. I almost missed my flight. Please get back to me. - Olivia",Late Pickup,Normal,Late Pickup-0
+E0846,"Hi, Please move my airport ride one hour earlier. Thanks. - Noah",Booking Change,Normal,Booking Change-6
+E0847,"Hi, I booked a car for 6:30 this morning but nobody showed up until 30 minutes later. It is urgent, please call me back as soon as possible. - Noah",Late Pickup,High,Late Pickup-1
+E0848,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Please get back to me. - Maya",Booking Change,Normal,Booking Change-2
+E0849,"Hi, Did any driver find a pair of glasses? I had them before the ride to Pearson Airport. It is urgent, please call me back as soon as possible. Thanks. - Hassan",Lost Item,High,Lost Item-7
+E0850,"Hi, The price on the app and the final price do not match at all. Please get back to me. - Grace",Billing Issue,Normal,Billing Issue-7
+E0851,"Hi, I booked a car for Sunday but nobody showed up until 25 minutes later. Please get back to me. - Emma",Late Pickup,Normal,Late Pickup-1
+E0852,"Hi, I paid cash but you still billed my card $89. Thank you for your help. - Hassan",Billing Issue,Normal,Billing Issue-6
+E0853,"Hi, Nobody was there when I came out of arrivals at Mississauga. I had to take another cab. I need this resolved today. Regards. - Ahmed",Late Pickup,High,Late Pickup-5
+E0854,"Hi, The pickup at Terminal 1 was late again. This is the second time this month. Regards. - Ahmed",Late Pickup,Normal,Late Pickup-3
+E0855,"Hi, Can you explain the extra fee on my invoice? I paid $120 instead of $110. - Yusuf",Billing Issue,Normal,Billing Issue-3
+E0856,"Hi, I felt unsafe, the driver was driving aggressively around 11 pm. - Chen",Driver Behaviour,High,Driver Behaviour-2
+E0857,"I'm a regular customer and usually book through the app. Hi, I left my laptop bag in the car around 11 pm after a ride from Square One. Please help. I will file a formal complaint if this is not fixed. Regards. - Mark",Lost Item,High,Lost Item-0
+E0858,"Hi, I booked a car for last night but nobody showed up until 25 minutes later. - Mark",Late Pickup,Normal,Late Pickup-1
+E0859,"I'm a regular customer and usually book through the app. Hi, Waited at North York for over 40 minutes, the driver never called. Very disappointing. Thanks. - Sarah",Late Pickup,Normal,Late Pickup-2
+E0860,"Hi, Waited at Terminal 1 for over 25 minutes, the driver never called. Very disappointing. I felt unsafe and I want someone to contact me right away. Thank you for your help. - Maya",Late Pickup,High,Late Pickup-2
+E0861,"Hi, My driver was 25 minutes late picking me up at Square One. I almost missed my flight. Regards. - Sarah",Late Pickup,Normal,Late Pickup-0
+E0862,"Hi, Can I switch my reservation to a bigger vehicle for Square One? Please get back to me. - Liam",Booking Change,Normal,Booking Change-7
+E0863,"Hi, Just wanted to say Grace, my driver, was excellent and very friendly. Thank you! - Julia",Compliment,Normal,Compliment-0
+E0864,"Hi, Can I switch my reservation to a bigger vehicle for my office? Thank you for your help. - Grace",Booking Change,Normal,Booking Change-7
+E0865,"Hi, Our limo arrived 40 minutes after the scheduled time and we were late to the wedding. This is unacceptable and I want a refund immediately. Thanks. - Chen",Late Pickup,High,Late Pickup-4
+E0866,"Hi, Can I change my pickup time tomorrow from 6:30 this morning to a later time? Please get back to me. - Hassan",Booking Change,Normal,Booking Change-0
+E0867,"I'm a regular customer and usually book through the app. Hi, I felt unsafe, the driver was driving aggressively Sunday. Please get back to me. - Rami",Driver Behaviour,High,Driver Behaviour-2
+E0868,"Hi, I paid cash but you still billed my card $150. Regards. - Yusuf",Billing Issue,Normal,Billing Issue-6
+E0869,"Hi, I booked a car for this morning but nobody showed up until 45 minutes later. Thank you for your help. - Carlos",Late Pickup,Normal,Late Pickup-1
+E0870,"Hi, Did any driver find a pair of glasses? I had them before the ride to Pearson Airport. Thank you for your help. - Yusuf",Lost Item,Normal,Lost Item-7
+E0871,"Hi, Just wanted to say Fatima, my driver, was excellent and very friendly. Thank you! Thanks. - Sarah",Compliment,Normal,Compliment-0
+E0872,"This was for a trip with my family. Hi, The limo for our event was perfect. Everyone loved it. - Priya",Compliment,Normal,Compliment-4
+E0873,"Hi, Our limo arrived 30 minutes after the scheduled time and we were late to the wedding. Please get back to me. - Hassan",Late Pickup,Normal,Late Pickup-4
+E0874,"Hi, Thank you for getting me to Pearson Airport so quickly. Amazing driver. Thank you for your help. - Olivia",Compliment,Normal,Compliment-2
+E0875,"Hi, He kept texting while driving through North York, I was scared the whole time. Thanks. - Emma",Driver Behaviour,Normal,Driver Behaviour-6
+E0876,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. Please get back to me. - Yusuf",Compliment,Normal,Compliment-5
+E0877,"Hi, I felt unsafe, the driver was driving aggressively yesterday afternoon. Regards. - Rami",Driver Behaviour,High,Driver Behaviour-2
+E0878,"Hi, I left my laptop bag in the car Friday evening after a ride from the hotel. Please help. I will file a formal complaint if this is not fixed. - Emma",Lost Item,High,Lost Item-0
+E0879,"Hi, I think I forgot my phone in the back seat of the taxi from Terminal 3. - Priya",Lost Item,Normal,Lost Item-1
+E0880,"Hi, The price on the app and the final price do not match at all. - Hassan",Billing Issue,Normal,Billing Issue-7
+E0881,"Hi, I left a black suitcase in the trunk this morning. It has important documents. Thanks. - Liam",Lost Item,Normal,Lost Item-4
+E0882,"Hi, Just wanted to say Rami, my driver, was excellent and very friendly. Thank you! Please get back to me. - Liam",Compliment,Normal,Compliment-0
+E0883,"Hi, The driver was rude to me and refused to help with my luggage at my office. I felt unsafe and I want someone to contact me right away. Please get back to me. - Lina",Driver Behaviour,High,Driver Behaviour-0
+E0884,"Hi, My driver was on the phone the whole ride and was speeding on the highway. It is urgent, please call me back as soon as possible. Regards. - Rami",Driver Behaviour,High,Driver Behaviour-1
+E0885,"Hi, My driver was on the phone the whole ride and was speeding on the highway. - Chen",Driver Behaviour,High,Driver Behaviour-1
+E0886,"Hi, The pickup at the hotel was late again. This is the second time this month. Thanks. - Liam",Late Pickup,Normal,Late Pickup-3
+E0887,"Hi, He kept texting while driving through downtown Toronto, I was scared the whole time. I will file a formal complaint if this is not fixed. - Rami",Driver Behaviour,High,Driver Behaviour-6
+E0888,"Hi, I left my laptop bag in the car Sunday after a ride from Mississauga. Please help. I will file a formal complaint if this is not fixed. - Lina",Lost Item,High,Lost Item-0
+E0889,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Thank you for your help. - Sarah",Booking Change,Normal,Booking Change-5
+E0890,"Hi, The pickup at Terminal 3 was late again. This is the second time this month. This is unacceptable and I want a refund immediately. Regards. - Chen",Late Pickup,High,Late Pickup-3
+E0891,"Hi, Something is off with my statement, there are two payments for one ride. Please get back to me. - Olivia",Billing Issue,Normal,Billing Issue-5
+E0892,"Hi, My keys must have fallen out in the car, I can't find them anywhere since around 11 pm. It is urgent, please call me back as soon as possible. Please get back to me. - Emma",Lost Item,High,Lost Item-5
+E0893,"My booking reference is in the confirmation email. Hi, I need to cancel my booking for Friday to Mississauga. - Sarah",Booking Change,Normal,Booking Change-1
+E0894,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Regards. - Mark",Booking Change,Normal,Booking Change-2
+E0895,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. Thank you for your help. - Chen",Driver Behaviour,Normal,Driver Behaviour-5
+E0896,"Hi, Very impolite driver, he did not even say hello and slammed the trunk. Please get back to me. - Maya",Driver Behaviour,Normal,Driver Behaviour-7
+E0897,"Hi, I left a black suitcase in the trunk Sunday. It has important documents. Thank you for your help. - Daniel",Lost Item,Normal,Lost Item-4
+E0898,"Hi, Did any driver find a pair of glasses? I had them before the ride to Mississauga. I felt unsafe and I want someone to contact me right away. Please get back to me. - Liam",Lost Item,High,Lost Item-7
+E0899,"Hi, The fare on my receipt is $65 but I was quoted $95. Why the difference? Thanks. - Hassan",Billing Issue,Normal,Billing Issue-1
+E0900,"Hi, Our limo arrived 15 minutes after the scheduled time and we were late to the wedding. This is unacceptable and I want a refund immediately. Thanks. - Ahmed",Late Pickup,High,Late Pickup-4
+E0901,"I travel for work every week with your company. Hi, Can I switch my reservation to a bigger vehicle for downtown Toronto? - Hassan",Booking Change,Normal,Booking Change-7
+E0902,"This was for a trip with my family. Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. Thanks. - Olivia",Lost Item,Normal,Lost Item-6
+E0903,"My booking reference is in the confirmation email. Hi, Can I switch my reservation to a bigger vehicle for Mississauga? Please get back to me. - Ahmed",Booking Change,Normal,Booking Change-7
+E0904,"Hi, Very impolite driver, he did not even say hello and slammed the trunk. I need this resolved today. Regards. - Ahmed",Driver Behaviour,High,Driver Behaviour-7
+E0905,"I'm a regular customer and usually book through the app. Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. This is unacceptable and I want a refund immediately. Regards. - Hassan",Lost Item,High,Lost Item-6
+E0906,"Hi, My driver was 15 minutes late picking me up at Pearson Airport. I almost missed my flight. I will file a formal complaint if this is not fixed. Thank you for your help. - Omar",Late Pickup,High,Late Pickup-0
+E0907,"Hi, Our limo arrived 15 minutes after the scheduled time and we were late to the wedding. Thanks. - Mark",Late Pickup,Normal,Late Pickup-4
+E0908,"Hi, Can I change my pickup time tomorrow from around 11 pm to a later time? Thank you for your help. - Yusuf",Booking Change,Normal,Booking Change-0
+E0909,"Hi, I think I forgot my phone in the back seat of the taxi from Union Station. Please get back to me. - Emma",Lost Item,Normal,Lost Item-1
+E0910,"Hi, Waited at North York for over 40 minutes, the driver never called. Very disappointing. Please get back to me. - Julia",Late Pickup,Normal,Late Pickup-2
+E0911,"Hi, I left a black suitcase in the trunk Friday evening. It has important documents. Thank you for your help. - Grace",Lost Item,Normal,Lost Item-4
+E0912,"Hi, I was charged twice for my trip from Union Station around 11 pm. Please refund the extra charge. - Carlos",Billing Issue,Normal,Billing Issue-0
+E0913,"My booking reference is in the confirmation email. Hi, Please move my airport ride one hour earlier. Thank you for your help. - Emma",Booking Change,Normal,Booking Change-6
+E0914,"This was for a trip with my family. Hi, Very impolite driver, he did not even say hello and slammed the trunk. This is unacceptable and I want a refund immediately. Thanks. - Emma",Driver Behaviour,High,Driver Behaviour-7
+E0915,"Hi, The fare on my receipt is $150 but I was quoted $95. Why the difference? Regards. - Omar",Billing Issue,Normal,Billing Issue-1
+E0916,"Hi, I was charged twice for my trip from North York yesterday afternoon. Please refund the extra charge. I will file a formal complaint if this is not fixed. Thank you for your help. - Noah",Billing Issue,High,Billing Issue-0
+E0917,"Hi, You promised the car at 5 am, it came way after. I lost an important meeting. Regards. - Priya",Late Pickup,Normal,Late Pickup-6
+E0918,"Hi, I booked a car for Friday evening but nobody showed up until 40 minutes later. This is unacceptable and I want a refund immediately. Thank you for your help. - Fatima",Late Pickup,High,Late Pickup-1
+E0919,"Hi, Nobody was there when I came out of arrivals at Pearson Airport. I had to take another cab. I will file a formal complaint if this is not fixed. - Yusuf",Late Pickup,High,Late Pickup-5
+E0920,"I travel for work every week with your company. Hi, I really appreciated how patient the driver was with my kids. Thank you for your help. - Yusuf",Compliment,Normal,Compliment-6
+E0921,"Hi, I would like to book a car for 6 people next Saturday from my office. Regards. - Omar",Booking Change,Normal,Booking Change-4
+E0922,"Hi, My keys must have fallen out in the car, I can't find them anywhere since around 11 pm. - Lina",Lost Item,Normal,Lost Item-5
+E0923,"Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. Regards. - Maya",Lost Item,Normal,Lost Item-6
+E0924,"Hi, My daughter left her backpack in the limo 6:30 this morning. How can we get it back? I felt unsafe and I want someone to contact me right away. Thank you for your help. - Ahmed",Lost Item,High,Lost Item-2
+E0925,"Hi, He kept texting while driving through Square One, I was scared the whole time. I need this resolved today. - Omar",Driver Behaviour,High,Driver Behaviour-6
+E0926,"Hi, The driver took a much longer route from Square One and argued when I asked about it. I need this resolved today. Thanks. - Lina",Driver Behaviour,High,Driver Behaviour-4
+E0927,"Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. Thanks. - Chen",Lost Item,Normal,Lost Item-6
+E0928,"Hi, Our limo arrived 40 minutes after the scheduled time and we were late to the wedding. I will file a formal complaint if this is not fixed. Please get back to me. - Mark",Late Pickup,High,Late Pickup-4
+E0929,"Hi, Something is off with my statement, there are two payments for one ride. Thanks. - Carlos",Billing Issue,Normal,Billing Issue-5
+E0930,"Hi, I felt unsafe, the driver was driving aggressively last night. I need this resolved today. Thanks. - Omar",Driver Behaviour,High,Driver Behaviour-2
+E0931,"Hi, I need to cancel my booking for Friday to Terminal 3. Regards. - Rami",Booking Change,Normal,Booking Change-1
+E0932,"Hi, The pickup at Terminal 1 was late again. This is the second time this month. It is urgent, please call me back as soon as possible. Thank you for your help. - Sarah",Late Pickup,High,Late Pickup-3
+E0933,"Hi, I think I forgot my phone in the back seat of the taxi from Terminal 1. - Grace",Lost Item,Normal,Lost Item-1
+E0934,"Hi, My daughter left her backpack in the limo Sunday. How can we get it back? Thanks. - Carlos",Lost Item,Normal,Lost Item-2
+E0935,"Hi, Our limo arrived 25 minutes after the scheduled time and we were late to the wedding. I need this resolved today. Thanks. - Julia",Late Pickup,High,Late Pickup-4
+E0936,"Hi, I booked a car for Friday evening but nobody showed up until 15 minutes later. - Hassan",Late Pickup,Normal,Late Pickup-1
+E0937,"Hi, Just wanted to say Fatima, my driver, was excellent and very friendly. Thank you! Regards. - Priya",Compliment,Normal,Compliment-0
+E0938,"Hi, I left a black suitcase in the trunk last night. It has important documents. I will file a formal complaint if this is not fixed. Thank you for your help. - Liam",Lost Item,High,Lost Item-4
+E0939,"Hi, I really appreciated how patient the driver was with my kids. Thank you for your help. - Hassan",Compliment,Normal,Compliment-6
+E0940,"Hi, Great service Sunday, the car was clean and on time. I will book again. Thanks. - Yusuf",Compliment,Normal,Compliment-1
+E0941,"Hi, Our limo arrived 60 minutes after the scheduled time and we were late to the wedding. I will file a formal complaint if this is not fixed. Thank you for your help. - Grace",Late Pickup,High,Late Pickup-4
+E0942,"Hi, The price on the app and the final price do not match at all. This is unacceptable and I want a refund immediately. Thank you for your help. - Liam",Billing Issue,High,Billing Issue-7
+E0943,"My booking reference is in the confirmation email. Hi, Nobody was there when I came out of arrivals at Pearson Airport. I had to take another cab. I felt unsafe and I want someone to contact me right away. Thank you for your help. - Maya",Late Pickup,High,Late Pickup-5
+E0944,"Hi, I felt unsafe, the driver was driving aggressively around 11 pm. Thanks. - Priya",Driver Behaviour,High,Driver Behaviour-2
+E0945,"Hi, Driver showed up so late that I had to rush through security. Not ok. Thanks. - Liam",Late Pickup,Normal,Late Pickup-7
+E0946,"Hi, Can you explain the extra fee on my invoice? I paid $65 instead of $95. Please get back to me. - Olivia",Billing Issue,Normal,Billing Issue-3
+E0947,"Hi, Please move my airport ride one hour earlier. Thank you for your help. - Lina",Booking Change,Normal,Booking Change-6
+E0948,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Thank you for your help. - Chen",Booking Change,Normal,Booking Change-5
+E0949,"Hi, My driver was 60 minutes late picking me up at Union Station. I almost missed my flight. - Rami",Late Pickup,Normal,Late Pickup-0
+E0950,"Hi, I need to cancel my booking for Friday to Terminal 1. Thank you for your help. - Omar",Booking Change,Normal,Booking Change-1
+E0951,"Hi, I need to cancel my booking for Friday to Terminal 1. It is urgent, please call me back as soon as possible. Thanks. - Hassan",Booking Change,High,Booking Change-1
+E0952,"Hi, You promised the car at last night, it came way after. I lost an important meeting. Thank you for your help. - Omar",Late Pickup,Normal,Late Pickup-6
+E0953,"Hi, Waited at downtown Toronto for over 60 minutes, the driver never called. Very disappointing. - Yusuf",Late Pickup,Normal,Late Pickup-2
+E0954,"Hi, I would like to book a car for 6 people next Saturday from Pearson Airport. Thank you for your help. - Priya",Booking Change,Normal,Booking Change-4
+E0955,"Hi, Nobody was there when I came out of arrivals at Terminal 3. I had to take another cab. Thank you for your help. - Liam",Late Pickup,Normal,Late Pickup-5
+E0956,"Hi, My driver was on the phone the whole ride and was speeding on the highway. It is urgent, please call me back as soon as possible. Please get back to me. - Julia",Driver Behaviour,High,Driver Behaviour-1
+E0957,"Hi, The fare on my receipt is $120 but I was quoted $95. Why the difference? Thanks. - Ahmed",Billing Issue,Normal,Billing Issue-1
+E0958,"Hi, Something is off with my statement, there are two payments for one ride. Please get back to me. - Lina",Billing Issue,Normal,Billing Issue-5
+E0959,"My booking reference is in the confirmation email. Hi, Driver showed up so late that I had to rush through security. Not ok. I felt unsafe and I want someone to contact me right away. Thank you for your help. - Sarah",Late Pickup,High,Late Pickup-7
+E0960,"I'm a regular customer and usually book through the app. Hi, My credit card shows a charge of $150 for a ride I never took. This is unacceptable and I want a refund immediately. Thank you for your help. - Sarah",Billing Issue,High,Billing Issue-2
+E0961,"Hi, Very impolite driver, he did not even say hello and slammed the trunk. Regards. - Lina",Driver Behaviour,Normal,Driver Behaviour-7
+E0962,"Hi, I paid cash but you still billed my card $65. Regards. - Yusuf",Billing Issue,Normal,Billing Issue-6
+E0963,"Hi, I really appreciated how patient the driver was with my kids. Regards. - Omar",Compliment,Normal,Compliment-6
+E0964,"Hi, Is it possible to add a stop at my office on my booking? Thanks. - Daniel",Booking Change,Normal,Booking Change-3
+E0965,"Hi, Nobody was there when I came out of arrivals at Terminal 1. I had to take another cab. Thanks. - Rami",Late Pickup,Normal,Late Pickup-5
+E0966,"I travel for work every week with your company. Hi, Just wanted to say Emma, my driver, was excellent and very friendly. Thank you! Thanks. - Priya",Compliment,Normal,Compliment-0
+E0967,"Hi, I booked a car for Sunday but nobody showed up until 30 minutes later. It is urgent, please call me back as soon as possible. Thanks. - Sarah",Late Pickup,High,Late Pickup-1
+E0968,"Hi, The driver was rude to me and refused to help with my luggage at my office. Regards. - Rami",Driver Behaviour,Normal,Driver Behaviour-0
+E0969,"Hi, The driver took a much longer route from Union Station and argued when I asked about it. It is urgent, please call me back as soon as possible. Regards. - Rami",Driver Behaviour,High,Driver Behaviour-4
+E0970,"Hi, I felt unsafe, the driver was driving aggressively last night. Thank you for your help. - Maya",Driver Behaviour,High,Driver Behaviour-2
+E0971,"Hi, Nobody was there when I came out of arrivals at Square One. I had to take another cab. Thanks. - Liam",Late Pickup,Normal,Late Pickup-5
+E0972,"This was for a trip with my family. Hi, I think I forgot my phone in the back seat of the taxi from Mississauga. Thanks. - Ahmed",Lost Item,Normal,Lost Item-1
+E0973,"Hi, My driver was on the phone the whole ride and was speeding on the highway. Regards. - Priya",Driver Behaviour,High,Driver Behaviour-1
+E0974,"Hi, I was charged twice for my trip from Terminal 3 Friday evening. Please refund the extra charge. Regards. - Lina",Billing Issue,Normal,Billing Issue-0
+E0975,"Hi, Is it possible to add a stop at Terminal 1 on my booking? - Liam",Booking Change,Normal,Booking Change-3
+E0976,"Hi, Something is off with my statement, there are two payments for one ride. Thanks. - Hassan",Billing Issue,Normal,Billing Issue-5
+E0977,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Regards. - Julia",Booking Change,Normal,Booking Change-5
+E0978,"Hi, I booked a car for last night but nobody showed up until 40 minutes later. Regards. - Mark",Late Pickup,Normal,Late Pickup-1
+E0979,"Hi, You promised the car at yesterday afternoon, it came way after. I lost an important meeting. Thank you for your help. - Carlos",Late Pickup,Normal,Late Pickup-6
+E0980,"Hi, Our limo arrived 40 minutes after the scheduled time and we were late to the wedding. Regards. - Ahmed",Late Pickup,Normal,Late Pickup-4
+E0981,"This was for a trip with my family. Hi, Can I change my pickup time tomorrow from Friday evening to a later time? - Omar",Booking Change,Normal,Booking Change-0
+E0982,"Hi, I felt unsafe, the driver was driving aggressively 6:30 this morning. I need this resolved today. - Chen",Driver Behaviour,High,Driver Behaviour-2
+E0983,"Hi, Something is off with my statement, there are two payments for one ride. I will file a formal complaint if this is not fixed. - Fatima",Billing Issue,High,Billing Issue-5
+E0984,"Hi, Can you explain the extra fee on my invoice? I paid $89 instead of $55. Please get back to me. - Noah",Billing Issue,Normal,Billing Issue-3
+E0985,"Hi, Your team was very helpful when I changed my booking. Much appreciated. Please get back to me. - Rami",Compliment,Normal,Compliment-3
+E0986,"Hi, I was charged twice for my trip from Square One 5 am. Please refund the extra charge. I will file a formal complaint if this is not fixed. - Fatima",Billing Issue,High,Billing Issue-0
+E0987,"My booking reference is in the confirmation email. Hi, The driver was rude to me and refused to help with my luggage at Terminal 3. Please get back to me. - Sarah",Driver Behaviour,Normal,Driver Behaviour-0
+E0988,"Hi, Can you explain the extra fee on my invoice? I paid $65 instead of $60. Regards. - Rami",Billing Issue,Normal,Billing Issue-3
+E0989,"Hi, I need a corrected receipt for my business trip, the amount is wrong. This is unacceptable and I want a refund immediately. - Olivia",Billing Issue,High,Billing Issue-4
+E0990,"Hi, Our limo arrived 15 minutes after the scheduled time and we were late to the wedding. I will file a formal complaint if this is not fixed. Regards. - Yusuf",Late Pickup,High,Late Pickup-4
+E0991,"Hi, He kept texting while driving through the hotel, I was scared the whole time. Thanks. - Julia",Driver Behaviour,Normal,Driver Behaviour-6
+E0992,"This was for a trip with my family. Hi, Thank you for getting me to Square One so quickly. Amazing driver. Thanks. - Omar",Compliment,Normal,Compliment-2
+E0993,"Hi, Our limo arrived 45 minutes after the scheduled time and we were late to the wedding. Regards. - Fatima",Late Pickup,Normal,Late Pickup-4
+E0994,"Hi, I felt unsafe, the driver was driving aggressively 5 am. It is urgent, please call me back as soon as possible. Thanks. - Chen",Driver Behaviour,High,Driver Behaviour-2
+E0995,"Hi, Thank you for getting me to Terminal 3 so quickly. Amazing driver. Please get back to me. - Mark",Compliment,Normal,Compliment-2
+E0996,"Hi, My credit card shows a charge of $48 for a ride I never took. This is unacceptable and I want a refund immediately. Regards. - Noah",Billing Issue,High,Billing Issue-2
+E0997,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. Thank you for your help. - Rami",Compliment,Normal,Compliment-5
+E0998,"This was for a trip with my family. Hi, Nobody was there when I came out of arrivals at North York. I had to take another cab. - Sarah",Late Pickup,Normal,Late Pickup-5
+E0999,"Hi, Please move my airport ride one hour earlier. Regards. - Fatima",Booking Change,Normal,Booking Change-6
+E1000,"Hi, My credit card shows a charge of $89 for a ride I never took. Thanks. - Emma",Billing Issue,Normal,Billing Issue-2
+E1001,"This was for a trip with my family. Hi, You promised the car at Sunday, it came way after. I lost an important meeting. It is urgent, please call me back as soon as possible. Thank you for your help. - Liam",Late Pickup,High,Late Pickup-6
+E1002,"Hi, The driver smelled of smoke and was very unprofessional. Thanks. - Omar",Driver Behaviour,Normal,Driver Behaviour-3
+E1003,"Hi, He kept texting while driving through the hotel, I was scared the whole time. I felt unsafe and I want someone to contact me right away. Please get back to me. - Olivia",Driver Behaviour,High,Driver Behaviour-6
+E1004,"Hi, Lost my wallet during my trip to Terminal 1, can you check with the driver? - Hassan",Lost Item,Normal,Lost Item-3
+E1005,"Hi, Just wanted to say Emma, my driver, was excellent and very friendly. Thank you! Thank you for your help. - Lina",Compliment,Normal,Compliment-0
+E1006,"Hi, Best airport transfer I've had in years, thank you Julia. Thanks. - Maya",Compliment,Normal,Compliment-7
+E1007,"Hi, My driver was 40 minutes late picking me up at North York. I almost missed my flight. Thank you for your help. - Julia",Late Pickup,Normal,Late Pickup-0
+E1008,"Hi, I was charged twice for my trip from downtown Toronto 6:30 this morning. Please refund the extra charge. Regards. - Emma",Billing Issue,Normal,Billing Issue-0
+E1009,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. Thanks. - Fatima",Compliment,Normal,Compliment-5
+E1010,"Hi, The driver was rude to me and refused to help with my luggage at my office. I felt unsafe and I want someone to contact me right away. - Julia",Driver Behaviour,High,Driver Behaviour-0
+E1011,"Hi, I was charged twice for my trip from Mississauga last night. Please refund the extra charge. I will file a formal complaint if this is not fixed. Please get back to me. - Liam",Billing Issue,High,Billing Issue-0
+E1012,"Hi, Nobody was there when I came out of arrivals at Terminal 3. I had to take another cab. - Grace",Late Pickup,Normal,Late Pickup-5
+E1013,"Hi, I left a black suitcase in the trunk around 11 pm. It has important documents. I will file a formal complaint if this is not fixed. Please get back to me. - Grace",Lost Item,High,Lost Item-4
+E1014,"Hi, Nobody was there when I came out of arrivals at North York. I had to take another cab. Please get back to me. - Maya",Late Pickup,Normal,Late Pickup-5
+E1015,"This was for a trip with my family. Hi, I was charged twice for my trip from Square One yesterday afternoon. Please refund the extra charge. Please get back to me. - Mark",Billing Issue,Normal,Billing Issue-0
+E1016,"Hi, I think I forgot my phone in the back seat of the taxi from the hotel. I felt unsafe and I want someone to contact me right away. Regards. - Hassan",Lost Item,High,Lost Item-1
+E1017,"Hi, Waited at downtown Toronto for over 15 minutes, the driver never called. Very disappointing. Thanks. - Julia",Late Pickup,Normal,Late Pickup-2
+E1018,"This was for a trip with my family. Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Please get back to me. - Ahmed",Booking Change,Normal,Booking Change-5
+E1019,"Hi, My keys must have fallen out in the car, I can't find them anywhere since 6:30 this morning. Please get back to me. - Liam",Lost Item,Normal,Lost Item-5
+E1020,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. - Emma",Booking Change,Normal,Booking Change-2
+E1021,"Hi, Just wanted to say Noah, my driver, was excellent and very friendly. Thank you! Thanks. - Sarah",Compliment,Normal,Compliment-0
+E1022,"Hi, My credit card shows a charge of $72 for a ride I never took. Please get back to me. - Omar",Billing Issue,Normal,Billing Issue-2
+E1023,"Hi, I would like to book a car for 6 people next Saturday from Square One. Thank you for your help. - Lina",Booking Change,Normal,Booking Change-4
+E1024,"My booking reference is in the confirmation email. Hi, My driver was on the phone the whole ride and was speeding on the highway. Please get back to me. - Noah",Driver Behaviour,High,Driver Behaviour-1
+E1025,"Hi, You promised the car at Friday evening, it came way after. I lost an important meeting. I need this resolved today. Please get back to me. - Omar",Late Pickup,High,Late Pickup-6
+E1026,"Hi, I was charged twice for my trip from Pearson Airport 6:30 this morning. Please refund the extra charge. Please get back to me. - Daniel",Billing Issue,Normal,Billing Issue-0
+E1027,"Hi, Something is off with my statement, there are two payments for one ride. - Ahmed",Billing Issue,Normal,Billing Issue-5
+E1028,"I'm a regular customer and usually book through the app. Hi, I need to cancel my booking for Friday to North York. - Rami",Booking Change,Normal,Booking Change-1
+E1029,"Hi, I need to cancel my booking for Friday to North York. - Maya",Booking Change,Normal,Booking Change-1
+E1030,"Hi, The driver was rude to me and refused to help with my luggage at downtown Toronto. I felt unsafe and I want someone to contact me right away. - Olivia",Driver Behaviour,High,Driver Behaviour-0
+E1031,"Hi, Please move my airport ride one hour earlier. It is urgent, please call me back as soon as possible. Regards. - Carlos",Booking Change,High,Booking Change-6
+E1032,"Hi, Just wanted to say Emma, my driver, was excellent and very friendly. Thank you! Thank you for your help. - Mark",Compliment,Normal,Compliment-0
+E1033,"I travel for work every week with your company. Hi, Waited at Mississauga for over 15 minutes, the driver never called. Very disappointing. I will file a formal complaint if this is not fixed. Regards. - Julia",Late Pickup,High,Late Pickup-2
+E1034,"Hi, Our limo arrived 40 minutes after the scheduled time and we were late to the wedding. Regards. - Lina",Late Pickup,Normal,Late Pickup-4
+E1035,"I travel for work every week with your company. Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. - Yusuf",Booking Change,Normal,Booking Change-5
+E1036,"Hi, He kept texting while driving through Terminal 3, I was scared the whole time. I will file a formal complaint if this is not fixed. Thank you for your help. - Daniel",Driver Behaviour,High,Driver Behaviour-6
+E1037,"Hi, My daughter left her backpack in the limo Friday evening. How can we get it back? Regards. - Omar",Lost Item,Normal,Lost Item-2
+E1038,"Hi, The driver took a much longer route from Terminal 1 and argued when I asked about it. I will file a formal complaint if this is not fixed. - Emma",Driver Behaviour,High,Driver Behaviour-4
+E1039,"Hi, Is it possible to add a stop at Union Station on my booking? Thank you for your help. - Lina",Booking Change,Normal,Booking Change-3
+E1040,"Hi, Can I switch my reservation to a bigger vehicle for Union Station? Thanks. - Sarah",Booking Change,Normal,Booking Change-7
+E1041,"I travel for work every week with your company. Hi, My daughter left her backpack in the limo Friday evening. How can we get it back? Please get back to me. - Olivia",Lost Item,Normal,Lost Item-2
+E1042,"Hi, I really appreciated how patient the driver was with my kids. Thank you for your help. - Grace",Compliment,Normal,Compliment-6
+E1043,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Regards. - Fatima",Booking Change,Normal,Booking Change-2
+E1044,"Hi, I paid cash but you still billed my card $120. Thank you for your help. - Yusuf",Billing Issue,Normal,Billing Issue-6
+E1045,"Hi, The fare on my receipt is $89 but I was quoted $110. Why the difference? Thanks. - Olivia",Billing Issue,Normal,Billing Issue-1
+E1046,"Hi, Can I switch my reservation to a bigger vehicle for the hotel? Regards. - Carlos",Booking Change,Normal,Booking Change-7
+E1047,"Hi, Your team was very helpful when I changed my booking. Much appreciated. Thank you for your help. - Maya",Compliment,Normal,Compliment-3
+E1048,"Hi, I need to cancel my booking for Friday to North York. Regards. - Maya",Booking Change,Normal,Booking Change-1
+E1049,"This was for a trip with my family. Hi, Please move my airport ride one hour earlier. - Noah",Booking Change,Normal,Booking Change-6
+E1050,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. - Grace",Driver Behaviour,Normal,Driver Behaviour-5
+E1051,"Hi, My credit card shows a charge of $48 for a ride I never took. I will file a formal complaint if this is not fixed. Thanks. - Maya",Billing Issue,High,Billing Issue-2
+E1052,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. Thanks. - Priya",Compliment,Normal,Compliment-5
+E1053,"Hi, I paid cash but you still billed my card $120. I need this resolved today. Thanks. - Maya",Billing Issue,High,Billing Issue-6
+E1054,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. Thanks. - Liam",Compliment,Normal,Compliment-5
+E1055,"Hi, You promised the car at 5 am, it came way after. I lost an important meeting. I need this resolved today. Please get back to me. - Yusuf",Late Pickup,High,Late Pickup-6
+E1056,"Hi, You promised the car at this morning, it came way after. I lost an important meeting. - Sarah",Late Pickup,Normal,Late Pickup-6
+E1057,"Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. Thanks. - Fatima",Lost Item,Normal,Lost Item-6
+E1058,"Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. Thank you for your help. - Sarah",Lost Item,Normal,Lost Item-6
+E1059,"This was for a trip with my family. Hi, Nobody was there when I came out of arrivals at Terminal 3. I had to take another cab. Thanks. - Priya",Late Pickup,Normal,Late Pickup-5
+E1060,"Hi, The price on the app and the final price do not match at all. - Daniel",Billing Issue,Normal,Billing Issue-7
+E1061,"Hi, Best airport transfer I've had in years, thank you Olivia. Thank you for your help. - Rami",Compliment,Normal,Compliment-7
+E1062,"Hi, I was charged twice for my trip from North York this morning. Please refund the extra charge. I felt unsafe and I want someone to contact me right away. - Ahmed",Billing Issue,High,Billing Issue-0
+E1063,"This was for a trip with my family. Hi, Just wanted to say Olivia, my driver, was excellent and very friendly. Thank you! Thanks. - Lina",Compliment,Normal,Compliment-0
+E1064,"My booking reference is in the confirmation email. Hi, The price on the app and the final price do not match at all. I need this resolved today. Thank you for your help. - Yusuf",Billing Issue,High,Billing Issue-7
+E1065,"Hi, Our limo arrived 60 minutes after the scheduled time and we were late to the wedding. Thank you for your help. - Lina",Late Pickup,Normal,Late Pickup-4
+E1066,"Hi, Waited at Terminal 1 for over 15 minutes, the driver never called. Very disappointing. It is urgent, please call me back as soon as possible. Regards. - Mark",Late Pickup,High,Late Pickup-2
+E1067,"Hi, Driver showed up so late that I had to rush through security. Not ok. I felt unsafe and I want someone to contact me right away. - Grace",Late Pickup,High,Late Pickup-7
+E1068,"Hi, The price on the app and the final price do not match at all. Regards. - Rami",Billing Issue,Normal,Billing Issue-7
+E1069,"Hi, Please move my airport ride one hour earlier. - Carlos",Booking Change,Normal,Booking Change-6
+E1070,"Hi, The driver smelled of smoke and was very unprofessional. Regards. - Olivia",Driver Behaviour,Normal,Driver Behaviour-3
+E1071,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. I will file a formal complaint if this is not fixed. Regards. - Emma",Driver Behaviour,High,Driver Behaviour-5
+E1072,"Hi, You promised the car at Friday evening, it came way after. I lost an important meeting. Thank you for your help. - Carlos",Late Pickup,Normal,Late Pickup-6
+E1073,"Hi, Just wanted to say Noah, my driver, was excellent and very friendly. Thank you! Regards. - Lina",Compliment,Normal,Compliment-0
+E1074,"Hi, The driver smelled of smoke and was very unprofessional. Thanks. - Mark",Driver Behaviour,Normal,Driver Behaviour-3
+E1075,"My booking reference is in the confirmation email. Hi, I was charged twice for my trip from my office last night. Please refund the extra charge. - Rami",Billing Issue,Normal,Billing Issue-0
+E1076,"Hi, My keys must have fallen out in the car, I can't find them anywhere since last night. Thanks. - Sarah",Lost Item,Normal,Lost Item-5
+E1077,"Hi, I think I forgot my phone in the back seat of the taxi from Square One. I need this resolved today. Thank you for your help. - Maya",Lost Item,High,Lost Item-1
+E1078,"Hi, I was charged twice for my trip from the hotel this morning. Please refund the extra charge. Thanks. - Omar",Billing Issue,Normal,Billing Issue-0
+E1079,"Hi, Five stars! Smooth ride, friendly chauffeur and a spotless car. - Emma",Compliment,Normal,Compliment-5
+E1080,"Hi, Can you explain the extra fee on my invoice? I paid $72 instead of $75. I will file a formal complaint if this is not fixed. - Noah",Billing Issue,High,Billing Issue-3
+E1081,"Hi, I felt unsafe, the driver was driving aggressively Sunday. This is unacceptable and I want a refund immediately. Thank you for your help. - Carlos",Driver Behaviour,High,Driver Behaviour-2
+E1082,"I travel for work every week with your company. Hi, Is it possible to add a stop at Terminal 1 on my booking? Regards. - Omar",Booking Change,Normal,Booking Change-3
+E1083,"Hi, The fare on my receipt is $72 but I was quoted $110. Why the difference? Regards. - Lina",Billing Issue,Normal,Billing Issue-1
+E1084,"Hi, Very impolite driver, he did not even say hello and slammed the trunk. Thank you for your help. - Olivia",Driver Behaviour,Normal,Driver Behaviour-7
+E1085,"Hi, Can I switch my reservation to a bigger vehicle for Terminal 3? Please get back to me. - Lina",Booking Change,Normal,Booking Change-7
+E1086,"Hi, I paid cash but you still billed my card $89. Thanks. - Fatima",Billing Issue,Normal,Billing Issue-6
+E1087,"Hi, I felt unsafe, the driver was driving aggressively 6:30 this morning. I will file a formal complaint if this is not fixed. Thanks. - Mark",Driver Behaviour,High,Driver Behaviour-2
+E1088,"Hi, The driver smelled of smoke and was very unprofessional. Thank you for your help. - Hassan",Driver Behaviour,Normal,Driver Behaviour-3
+E1089,"My booking reference is in the confirmation email. Hi, Your team was very helpful when I changed my booking. Much appreciated. Please get back to me. - Hassan",Compliment,Normal,Compliment-3
+E1090,"Hi, My credit card shows a charge of $65 for a ride I never took. This is unacceptable and I want a refund immediately. Please get back to me. - Liam",Billing Issue,High,Billing Issue-2
+E1091,"I'm a regular customer and usually book through the app. Hi, The driver was rude to me and refused to help with my luggage at the hotel. Thanks. - Carlos",Driver Behaviour,Normal,Driver Behaviour-0
+E1092,"Hi, I felt unsafe, the driver was driving aggressively yesterday afternoon. I need this resolved today. Please get back to me. - Carlos",Driver Behaviour,High,Driver Behaviour-2
+E1093,"Hi, My daughter left her backpack in the limo Friday evening. How can we get it back? I need this resolved today. Regards. - Chen",Lost Item,High,Lost Item-2
+E1094,"I travel for work every week with your company. Hi, Something is off with my statement, there are two payments for one ride. - Maya",Billing Issue,Normal,Billing Issue-5
+E1095,"Hi, The fare on my receipt is $120 but I was quoted $55. Why the difference? Regards. - Priya",Billing Issue,Normal,Billing Issue-1
+E1096,"Hi, Waited at Square One for over 40 minutes, the driver never called. Very disappointing. This is unacceptable and I want a refund immediately. Thanks. - Emma",Late Pickup,High,Late Pickup-2
+E1097,"Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. Thank you for your help. - Daniel",Lost Item,Normal,Lost Item-6
+E1098,"Hi, My credit card shows a charge of $72 for a ride I never took. Thanks. - Emma",Billing Issue,Normal,Billing Issue-2
+E1099,"Hi, Driver showed up so late that I had to rush through security. Not ok. Please get back to me. - Fatima",Late Pickup,Normal,Late Pickup-7
+E1100,"Hi, Our limo arrived 25 minutes after the scheduled time and we were late to the wedding. Regards. - Priya",Late Pickup,Normal,Late Pickup-4
+E1101,"Hi, Lost my wallet during my trip to the hotel, can you check with the driver? Thank you for your help. - Mark",Lost Item,Normal,Lost Item-3
+E1102,"Hi, I felt unsafe, the driver was driving aggressively yesterday afternoon. I felt unsafe and I want someone to contact me right away. Regards. - Lina",Driver Behaviour,High,Driver Behaviour-2
+E1103,"Hi, I need a corrected receipt for my business trip, the amount is wrong. I need this resolved today. Thanks. - Daniel",Billing Issue,High,Billing Issue-4
+E1104,"Hi, Something is off with my statement, there are two payments for one ride. I will file a formal complaint if this is not fixed. Thanks. - Fatima",Billing Issue,High,Billing Issue-5
+E1105,"Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Thanks. - Omar",Booking Change,Normal,Booking Change-5
+E1106,"Hi, Something is off with my statement, there are two payments for one ride. This is unacceptable and I want a refund immediately. Regards. - Noah",Billing Issue,High,Billing Issue-5
+E1107,"I'm a regular customer and usually book through the app. Hi, My driver was 45 minutes late picking me up at downtown Toronto. I almost missed my flight. I felt unsafe and I want someone to contact me right away. Please get back to me. - Priya",Late Pickup,High,Late Pickup-0
+E1108,"Hi, I think I forgot my phone in the back seat of the taxi from Terminal 1. Thank you for your help. - Rami",Lost Item,Normal,Lost Item-1
+E1109,"Hi, I need to cancel my booking for Friday to North York. Regards. - Olivia",Booking Change,Normal,Booking Change-1
+E1110,"Hi, I was charged twice for my trip from Mississauga yesterday afternoon. Please refund the extra charge. Regards. - Hassan",Billing Issue,Normal,Billing Issue-0
+E1111,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. I will file a formal complaint if this is not fixed. Regards. - Rami",Driver Behaviour,High,Driver Behaviour-5
+E1112,"Hi, I need a corrected receipt for my business trip, the amount is wrong. Thanks. - Carlos",Billing Issue,Normal,Billing Issue-4
+E1113,"Hi, Please move my airport ride one hour earlier. This is unacceptable and I want a refund immediately. Thank you for your help. - Yusuf",Booking Change,High,Booking Change-6
+E1114,"This was for a trip with my family. Hi, Our plans changed, we now need the car on Thursday instead of Wednesday. Thank you for your help. - Hassan",Booking Change,Normal,Booking Change-5
+E1115,"Hi, The price on the app and the final price do not match at all. Thanks. - Fatima",Billing Issue,Normal,Billing Issue-7
+E1116,"Hi, The pickup at Terminal 3 was late again. This is the second time this month. Thank you for your help. - Julia",Late Pickup,Normal,Late Pickup-3
+E1117,"Hi, My keys must have fallen out in the car, I can't find them anywhere since last night. I will file a formal complaint if this is not fixed. Regards. - Priya",Lost Item,High,Lost Item-5
+E1118,"Hi, Nobody was there when I came out of arrivals at North York. I had to take another cab. - Noah",Late Pickup,Normal,Late Pickup-5
+E1119,"Hi, Is it possible to add a stop at Terminal 3 on my booking? Regards. - Noah",Booking Change,Normal,Booking Change-3
+E1120,"Hi, The driver smelled of smoke and was very unprofessional. - Ahmed",Driver Behaviour,Normal,Driver Behaviour-3
+E1121,"Hi, Nobody was there when I came out of arrivals at the hotel. I had to take another cab. Regards. - Mark",Late Pickup,Normal,Late Pickup-5
+E1122,"Hi, I paid cash but you still billed my card $48. - Mark",Billing Issue,Normal,Billing Issue-6
+E1123,"Hi, There is a blue umbrella and a gift bag that I forgot in the vehicle. Regards. - Emma",Lost Item,Normal,Lost Item-6
+E1124,"Hi, Your chauffeur yelled at my elderly mother when she was slow getting in. This is unacceptable and I want a refund immediately. Thank you for your help. - Noah",Driver Behaviour,High,Driver Behaviour-5
+E1125,"Hi, Our limo arrived 20 minutes after the scheduled time and we were late to the wedding. - Emma",Late Pickup,Normal,Late Pickup-4
+E1126,"Hi, You promised the car at 5 am, it came way after. I lost an important meeting. I felt unsafe and I want someone to contact me right away. Regards. - Hassan",Late Pickup,High,Late Pickup-6
+E1127,"Hi, Your team was very helpful when I changed my booking. Much appreciated. Thanks. - Mark",Compliment,Normal,Compliment-3
+E1128,"Hi, Our limo arrived 40 minutes after the scheduled time and we were late to the wedding. This is unacceptable and I want a refund immediately. Thanks. - Priya",Late Pickup,High,Late Pickup-4
+E1129,"Hi, My driver was 25 minutes late picking me up at Terminal 1. I almost missed my flight. - Sarah",Late Pickup,Normal,Late Pickup-0
+E1130,"I'm a regular customer and usually book through the app. Hi, Thank you for getting me to Square One so quickly. Amazing driver. Please get back to me. - Fatima",Compliment,Normal,Compliment-2
+E1131,"This was for a trip with my family. Hi, I need a corrected receipt for my business trip, the amount is wrong. - Omar",Billing Issue,Normal,Billing Issue-4
+E1132,"Hi, Can I change my pickup time tomorrow from yesterday afternoon to a later time? - Lina",Booking Change,Normal,Booking Change-0
+E1133,"Hi, Can you explain the extra fee on my invoice? I paid $48 instead of $75. I need this resolved today. - Daniel",Billing Issue,High,Billing Issue-3
+E1134,"I'm a regular customer and usually book through the app. Hi, Something is off with my statement, there are two payments for one ride. I will file a formal complaint if this is not fixed. Regards. - Omar",Billing Issue,High,Billing Issue-5
+E1135,"Hi, Did any driver find a pair of glasses? I had them before the ride to North York. Please get back to me. - Sarah",Lost Item,Normal,Lost Item-7
+E1136,"Hi, Best airport transfer I've had in years, thank you Julia. Please get back to me. - Lina",Compliment,Normal,Compliment-7
+E1137,"Hi, Driver showed up so late that I had to rush through security. Not ok. It is urgent, please call me back as soon as possible. Thank you for your help. - Yusuf",Late Pickup,High,Late Pickup-7
+E1138,"Hi, Something is off with my statement, there are two payments for one ride. Thank you for your help. - Mark",Billing Issue,Normal,Billing Issue-5
+E1139,"Hi, Please update my reservation, my flight now lands at Terminal 3 instead of Terminal 1. Thank you for your help. - Emma",Booking Change,Normal,Booking Change-2
+E1140,"Hi, I would like to book a car for 6 people next Saturday from Square One. Please get back to me. - Grace",Booking Change,Normal,Booking Change-4
+E1141,"Hi, My daughter left her backpack in the limo this morning. How can we get it back? I need this resolved today. Thanks. - Julia",Lost Item,High,Lost Item-2
+E1142,"Hi, I need a corrected receipt for my business trip, the amount is wrong. - Fatima",Billing Issue,Normal,Billing Issue-4
+E1143,"Hi, My driver was 45 minutes late picking me up at Terminal 1. I almost missed my flight. I will file a formal complaint if this is not fixed. Thank you for your help. - Lina",Late Pickup,High,Late Pickup-0
+E1144,"Hi, Our limo arrived 15 minutes after the scheduled time and we were late to the wedding. Thank you for your help. - Mark",Late Pickup,Normal,Late Pickup-4
+E1145,"Hi, Can I switch my reservation to a bigger vehicle for downtown Toronto? Please get back to me. - Ahmed",Booking Change,Normal,Booking Change-7
+E1146,"I'm a regular customer and usually book through the app. Hi, Waited at Terminal 3 for over 30 minutes, the driver never called. Very disappointing. I need this resolved today. - Noah",Late Pickup,High,Late Pickup-2
+E1147,"Hi, My driver was on the phone the whole ride and was speeding on the highway. I need this resolved today. Please get back to me. - Lina",Driver Behaviour,High,Driver Behaviour-1
+E1148,"Hi, Waited at Pearson Airport for over 40 minutes, the driver never called. Very disappointing. I felt unsafe and I want someone to contact me right away. Please get back to me. - Emma",Late Pickup,High,Late Pickup-2
+E1149,"Hi, Driver showed up so late that I had to rush through security. Not ok. Regards. - Rami",Late Pickup,Normal,Late Pickup-7
+E1150,"My booking reference is in the confirmation email. Hi, Nobody was there when I came out of arrivals at my office. I had to take another cab. Thanks. - Julia",Late Pickup,Normal,Late Pickup-5

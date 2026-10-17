@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+streamlit
+pytest
+# optional, for LLM-written drafts:
+# anthropic
